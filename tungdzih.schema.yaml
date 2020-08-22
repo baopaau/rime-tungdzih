@@ -1,0 +1,144 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: tungdzih
+  name: 通字羅馬字
+  version: "0.1"
+  author:
+    - 第九個造謠者 <@729370547>
+    - 抱豹 <baopaau@gmail.com>
+  description: |
+    源自趙元任《通字方案》（A Project for General Chinese）
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, ASCII ]
+  - name: full_shape
+    states: [ 半形, 全形 ]
+  - options: [ noop, simplification, trad_tw, variants_hk, shin_jp ]
+    states: [ 原字, 陆简, 臺正, 港繁, 日新 ]
+    # 修改下行，改變預設用字 [0, 1, 2, 3 --> 對應上表]
+    reset: 0
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji_suggestion
+    states: [ 無繪文字 , 帶繪文字 ]
+    # 註釋下行，預設禁用 emoji
+    reset: 1
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@custom_phrase
+    - reverse_lookup_translator
+    - script_translator
+  filters:
+    - simplifier@trad_tw
+    - simplifier@variants_hk
+    - simplifier@shin_jp
+    - simplifier
+    - simplifier@emoji_suggestion
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    # 忽略聲調
+    - derive/(|u)o(o|h)$/$1o/
+    - derive/(|[eui])a(a|h)$/$1a/
+    - derive/(|iu?)e(e|h)$/$1e/
+    - derive/(ea|ua|ue|[aeu])(e|y)$/$1i/
+    - derive/(i|u)(\1|h)$/$1/
+    - derive/(|ea|ia|ie|a|e)(o|w)$/$1u/
+    - derive/([oaei])(\1m|mm|p)$/$1m/
+    - derive/([oaeui])(\1n|nn|t)$/$1n/
+    - derive/iuet$/iuan/
+    - derive/(|[eui])(ag|aq|oc)$/$1ang/
+    - derive/(|ua|iu|[aiu])(eg|eq|ec)$/$1eng/
+    - derive/(|iui|iu|io|[iuo])(g|q|c)$/$1ng/
+    - derive/ouc$/oc/
+    
+    # 模糊聲母
+    - derive/^bh/b/
+    - derive/^bh/p/
+    - derive/^fv/f/
+    - derive/^fv/v/
+    - derive/^dh/d/
+    - derive/^dh/t/
+    - derive/^dz/z/
+    - derive/^ts/z/
+    - derive/^sz/s/
+    - derive/^dhy/dy/
+    - derive/^dhy/ty/
+    
+    # 簡拼
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
+    
+   
+translator:
+  dictionary: tungdzih
+  spelling_hints: 5  # ～字以內候選標註完整帶調拼音
+  strict_spelling: true
+  # 是否導入語境建議，需配合語言模型
+  contextual_suggestions: true
+  # 同音異形詞最大值，需配合 contextual_suggestions
+  max_homophones: 3
+  # 同形異義詞最大值，需配合 contextual_suggestions
+  max_homographs: 7
+  
+grammar:
+  # 語言模型
+  language: "zh-hant-t-essay-bgw"
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+    
+variants_hk:
+  option_name: variants_hk
+  opencc_config: t2hkf.json
+
+trad_tw:
+  option_name: trad_tw
+  opencc_config: t2tw.json
+
+shin_jp:
+  option_name: shin_jp
+  opencc_config: t2jp.json
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  
+recognizer:
+  import_preset: default
