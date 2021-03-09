@@ -12,6 +12,9 @@
 # * nk2028/qieyun-autoderiver - 切韻音系自動推導
 #   https://nk2028.shn.hk/qieyun-autoderiver/
 #
+# * 通字方案字表
+#   QQ: 729370547
+#
 # * CC-CEDICT
 #   http://cc-cedict.org/
 #
@@ -32,6 +35,13 @@ version: "2021.03.09"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+
+#  supplementary
+袮	nii	10%
+妳	nii	20%
+
+
+
 # modern 
 啊	a	100%
 軛	aec	100%
@@ -676,9 +686,9 @@ use_preset_vocabulary: true
 
 # auto converted from poly's
 吖	ea	
-阿	o	
-啊	o	
-錒	o	
+#阿	o	
+#啊	o	
+#錒	o	
 嗄	ay	
 嗄	srah	
 哎	qay	
@@ -25507,7 +25517,7 @@ use_preset_vocabulary: true
 欝	iut	
 𩰪	iut	
 鬱	iut	
-𩱱	yuc	
+??	yuc	
 籲	yuh	
 灪	iut	
 爩	iut	
