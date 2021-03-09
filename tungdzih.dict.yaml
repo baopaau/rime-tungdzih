@@ -1,9 +1,9 @@
 ﻿# Rime dictionary
 # encoding: utf-8
 #
-#   Tungdzih Lomaadzih - 通字羅馬字
+#   通字羅馬字 Tung-dzih Lo-maa-dzih
 #
-#   A input method implementation of General Chinese(通字方案) invented by Yuen Ren Chao(趙元任)
+#   An input method implementation of General Chinese(通字方案) invented by Yuen Ren Chao(趙元任, 1983)
 #
 # Thanks to the following works:
 # * biopolyhedron/rime-middle-chinese - 中古漢語拼音
@@ -3464,7 +3464,7 @@ use_preset_vocabulary: true
 闖	tyemm	
 刱	traq	
 剏	traq	
-創	trang	
+創	trang	20%	
 創	traq	
 愴	traq	
 愴	trag	
