@@ -2,7 +2,7 @@
 
 配方： ℞ **baopaau/rime-tungdzih**
 
-[Rime](http://rime.im) 通字方案（羅馬字） 輸入方案。
+[Rime](http://rime.im) 通字羅馬字 輸入方案。
 
 整理自[趙元任《通字方案（General Chinese, 1983）》](https://en.m.wikipedia.org/wiki/General_Chinese)。
 
