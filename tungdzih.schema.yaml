@@ -2,14 +2,18 @@
 # encoding: utf-8
 
 schema:
-  schema_id: tungdzih
+  schema_id: &schema_id tungdzih
   name: 通字羅馬字
-  version: "1.0"
+  version: "2.0"
   author:
-    - 佚名 <@729370547>
-    - 抱豹 <baopaau@gmail.com>
+    - Baopaau <baopaau@gmail.com>
   description: |
-    源自趙元任《通字方案》（A Project for General Chinese）
+    整理自趙元任《通字方案 (General Chinese)》
+  dependencies:
+    - terra_pinyin
+    - jyut6ping3
+    - stroke
+    - cangjie5
 
 switches:
   - name: ascii_mode
@@ -17,16 +21,10 @@ switches:
     states: [ 中文, ASCII ]
   - name: full_shape
     states: [ 半形, 全形 ]
-  - options: [ noop, simplification, trad_tw, variants_hk, shin_jp ]
-    states: [ 原字, 陆简, 臺正, 港繁, 日新 ]
-    # 修改下行，改變預設用字 [0, 1, 2, 3, 4 --> 對應上表]
-    reset: 0
+  - name: simplification
+    states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - name: emoji_suggestion
-    states: [ 無繪文字 , 帶繪文字 ]
-    # 註釋下行，預設禁用 emoji
-    reset: 1
 
 engine:
   processors:
@@ -41,30 +39,24 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
-    - affix_segmentor@rev_pinyin
-    - affix_segmentor@rev_jyutping
-    - affix_segmentor@rev_triungkox
-    - affix_segmentor@rev_stroke
-    - affix_segmentor@rev_cangjie
+    - affix_segmentor@jyut6ping3
+    - affix_segmentor@stroke
+    - affix_segmentor@this_translator
+    - affix_segmentor@terra_pinyin
+    - affix_segmentor@cangjie5
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator@custom_phrase
     - script_translator
-    - script_translator@rev_pinyin
-    - script_translator@rev_jyutping
-    - table_translator@rev_triungkox
-    - table_translator@rev_stroke
-    - table_translator@rev_cangjie
-    
+    - script_translator@jyut6ping3
+    - table_translator@stroke
+    - script_translator@this_translator
+    - script_translator@terra_pinyin
+    - table_translator@cangjie5
   filters:
-    - simplifier@trad_tw
-    - simplifier@variants_hk
-    - simplifier@shin_jp
     - simplifier
-    - simplifier@emoji_suggestion
     - uniquifier
     - reverse_lookup_filter
 
@@ -72,80 +64,51 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    # 忽略聲調
-    - derive/(|u)o(o|h)$/$1o/
-    - derive/(|[eui])a(a|h)$/$1a/
-    - derive/(|iu?)e(e|h)$/$1e/
-    - derive/(ea|ua|ue|[aeu])(e|y)$/$1i/
-    - derive/(i|u)(\1|h)$/$1/
-    - derive/(|ea|ia|ie|a|e)(o|w)$/$1u/
-    - derive/([oaei])(\1m|mm|p)$/$1m/
-    - derive/([oaeui])(\1n|nn|t)$/$1n/
-    - derive/iuet$/iuan/
-    - derive/(|[eui])(ag|aq|oc)$/$1ang/
-    - derive/(|ua|iu|[aiu])(eg|eq|ec)$/$1eng/
-    - derive/(|iui|iu|io|[iuo])(g|q|c)$/$1ng/
-    - derive/ouc$/oc/
-    
-    # 模糊聲母
-    - derive/^bh/b/
-    - derive/^bh/p/
-    - derive/^fv/f/
-    - derive/^fv/v/
-    - derive/^dh/d/
-    - derive/^dh/t/
-    - derive/^dz/z/
-    - derive/^ts/z/
-    - derive/^sz/s/
-    - derive/^dhy/dy/
-    - derive/^dhy/ty/
-    
-    # 簡拼
-    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
-    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
- 
-grammar:
-  language: "zh-hant-t-essay-bgw"   
-   
+    - abbrev/^([a-z]).+$/$1/
+    #- abbrev/^([a-z]{2}).+$/$1/
+
 translator:
   dictionary: tungdzih
-  strict_spelling: true
-  enable_sentence: true
-  enable_user_dict: true
-  contextual_suggestions: true
+  prism: *schema_id
   spelling_hints: 7
-  max_homophones: 7
-  max_homographs: 7
-  initial_quality: 0.8
+  #initial_quality: 1
+  comment_format: &comment
 
-custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: userdb
-  enable_completion: true
-  enable_sentence: true
-  initial_quality: 0.7
-  
-rev_pinyin:
-  tag: rev_pinyin
-  dictionary: terra_pinyin
-  #prism: rola_qualnpiin
-  prefix: "P"
-  suffix: ";"
-  tips: 〔普拼〕
-  closing_tips: 〔通字〕
+this_translator:
+  tag: this_translator
+  dictionary: tungdzih
+  prism: *schema_id
+  prefix: ":"
+  tips: 〔通字〕
+  comment_format: *comment
   preedit_format:
+    - xform/^(.*)$/‹$1› 通字/
+
+terra_pinyin:
+  tag: terra_pinyin
+  dictionary: terra_pinyin
+  prism: terra_pinyin
+  prefix: ";"
+  tips: 〔普通話〕
+  preedit_format:
+    - 'xlit -/<\;,> 1234134'
+    - xform/([iuvaoe](|ng?))vvvvv\>/${1}5/
+    - xform/([iuvaoe](|ng?))vvvv\>/${1}4/
+    - xform/([iuvaoe](|ng?))vvv\>/${1}3/
+    - xform/([iuvaoe](|ng?))vv\>/${1}2/
+    - xform/([iuvaoe](|ng?))v\>/${1}1/
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-    
-rev_jyutping:
-  tag: rev_jyutping
+    - xlit/123456/¹²³⁴⁵⁶/
+    - xform/^(.*)$/‹$1› 普通話/
+
+jyut6ping3:
+  tag: jyut6ping3
   dictionary: jyut6ping3
-  prefix: "J"
-  suffix: ";"
+  prism: jyut6ping3
+  prefix: "`j"
   tips: 〔粵拼〕
-  closing_tips: 〔通字〕
   preedit_format:
     - xform/([aeioumngptk])vv/${1}4/
     - xform/([aeioumngptk])xx/${1}5/
@@ -153,37 +116,28 @@ rev_jyutping:
     - xform/([aeioumngptk])v/${1}1/
     - xform/([aeioumngptk])x/${1}2/
     - xform/([aeioumngptk])q/${1}3/
-    
-rev_triungkox:
-  tag: rev_triungkox
-  dictionary: zyenpheng
-  prefix: "Z"
-  suffix: ";"
-  tips: 〔中古〕
-  closing_tips: 〔通字〕
-    
-rev_stroke:
-  tag: rev_stroke
-  dictionary: stroke
-  prefix: "S"
-  suffix: ";"
-  tips: 〔筆畫〕
-  closing_tips: 〔通字〕
-  preedit_format:
-    - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
-    - xlit/HSPNZ/一丨丿丶乙/
+    - xlit/123456/¹²³⁴⁵⁶/
+    - xform/^(.*)$/‹$1› 粵拼/
 
-rev_cangjie:
-  tag: rev_cangjie
+stroke:
+  tag: stroke
+  dictionary: stroke
+  prefix: "`"
+  tips: 〔筆畫〕
+  preedit_format:
+    - xlit/hspnz/一丨丿丶乙/
+    - xform/^(.*)$/‹$1› 筆畫/
+
+cangjie5:
+  tag: cangjie5
   dictionary: cangjie5
   enable_user_dict: false
-  prefix: "C"
-  suffix: ";"
+  prefix: "`c"
   tips: 〔倉頡〕
-  closing_tips: 〔通字〕
   preedit_format:
-    - 'xform/^([a-z]*)$/$1\t（\U$1\E）/'
+    - 'xform/^([a-z]*)$/$1：\U$1\E /'
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
+    - xform/^(.*)$/‹$1› 倉頡/
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   disable_user_dict_for_patterns:
@@ -191,49 +145,31 @@ rev_cangjie:
     - "^yyy.*$"
 
 reverse_lookup:
+  tags: [ terra_pinyin, jyut6ping3, stroke, cangjie5 ]
+  overwrite_comment: true
   dictionary: tungdzih
-  tags:
-    - rev_pinyin
-    - rev_jyutping
-    - rev_triungkox
-    - rev_stroke
-    - rev_cangjie
-  overwrite_comment: false
-  comment_format:
-    - "xform/$/〕/"
-    - "xform/^/〔/"
-    
-variants_hk:
-  option_name: variants_hk
-  opencc_config: t2hkf.json
+  comment_format: *comment
 
-trad_tw:
-  option_name: trad_tw
-  opencc_config: t2tw.json
-
-shin_jp:
-  option_name: shin_jp
-  opencc_config: t2jp.json
-  #tips: all
-
-emoji_suggestion:
-  opencc_config: emoji.json
-  option_name: emoji_suggestion
-  tips: all
+abc_segmentor:
+  extra_tags:
+    #- jyut6ping3
+    #- terra_pinyin
+    #- cangjie5
 
 punctuator:
-  import_preset: symbols
+  import_preset: default
 
 key_binder:
   import_preset: default
+  bindings:
+    #- { when: has_menu, accept: space, send: Shift+Return }
 
 recognizer:
   import_preset: default
   patterns:
     punct: "^/.*$"
-    rev_pinyin: "P[a-z']*;?$"
-    rev_jyutping: "J[a-z']*;?$"
-    rev_stroke: "S[hspnz]*;?$"
-    rev_cangjie: "C[a-z]*;?$"
-    rev_triungkox: "Z[a-z']*;?$"
-    
+    stroke: "^`.*$"
+    jyut6ping3: "^`j.*$"
+    cangjie5: "^`c.*$"
+    this_translator: "^:.*$"
+    terra_pinyin: "^;.*$"
