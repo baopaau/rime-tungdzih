@@ -64,7 +64,8 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([bpmfvdtnlczsjrckgqxhyw][hryvsz]y?).+$/$1/
+    #- abbrev/^([a-z]).+$/$1/
     #- abbrev/^([a-z]{2}).+$/$1/
 
 translator:
@@ -78,7 +79,7 @@ this_translator:
   tag: this_translator
   dictionary: tungdzih
   prism: *schema_id
-  prefix: ":"
+  prefix: ";"
   tips: 〔通字〕
   comment_format: *comment
   preedit_format:
@@ -88,7 +89,7 @@ terra_pinyin:
   tag: terra_pinyin
   dictionary: terra_pinyin
   prism: terra_pinyin
-  prefix: ";"
+  prefix: ":"
   tips: 〔普通話〕
   preedit_format:
     - 'xlit -/<\;,> 1234134'
@@ -171,5 +172,5 @@ recognizer:
     stroke: "^`.*$"
     jyut6ping3: "^`j.*$"
     cangjie5: "^`c.*$"
-    this_translator: "^:.*$"
-    terra_pinyin: "^;.*$"
+    this_translator: "^;.*$"
+    terra_pinyin: "^:.*$"
