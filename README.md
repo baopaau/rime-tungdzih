@@ -6,6 +6,8 @@
 
 整理自[趙元任《通字方案（General Chinese, 1983）》](https://en.m.wikipedia.org/wiki/General_Chinese)。
 
+**注意：此碼表大部分條目尚未經校對，請勿作學習參考之用！**
+
 ## 安裝
 
 [東風破](https://github.com/rime/plum) 安裝口令： `bash rime-install baopaau/rime-tungdzih`
