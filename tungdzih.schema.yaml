@@ -4,7 +4,7 @@
 schema:
   schema_id: &schema_id tungdzih
   name: 通字羅馬字
-  version: "2.0"
+  version: "2.1"
   author:
     - Baopaau <baopaau@gmail.com>
   description: |
@@ -20,7 +20,7 @@ switches:
     reset: 0
     states: [ 中文, ASCII ]
   - name: full_shape
-    states: [ 半形, 全形 ]
+    states: [ 半寬, 全寬 ]
   - name: simplification
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
@@ -64,8 +64,16 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^([bpmfvdtnlczsjrckgqxhyw][hryvsz]y?).+$/$1/
-    #- abbrev/^([a-z]).+$/$1/
+    # 忽略聲調
+    - derive/h$//
+    - derive/([nm])\1$/$1/
+    - derive/([aoeui])\1(|[nm])$/$1$2/
+    - derive/([aoeu])[ey]$/$1i/
+    - derive/([aoe])[ow]$/$1u/
+    - derive/([aoeui])[gq]$/$1ng/
+    # 簡拼
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([bpmfvdtnlczsjckgqxhyw]?[hryvsz]y?).+$/$1/
     #- abbrev/^([a-z]{2}).+$/$1/
 
 translator:
@@ -79,7 +87,7 @@ this_translator:
   tag: this_translator
   dictionary: tungdzih
   prism: *schema_id
-  prefix: ";"
+  prefix: "~"
   tips: 〔通字〕
   comment_format: *comment
   preedit_format:
@@ -108,7 +116,7 @@ jyut6ping3:
   tag: jyut6ping3
   dictionary: jyut6ping3
   prism: jyut6ping3
-  prefix: "`j"
+  prefix: ";"
   tips: 〔粵拼〕
   preedit_format:
     - xform/([aeioumngptk])vv/${1}4/
@@ -170,7 +178,7 @@ recognizer:
   patterns:
     punct: "^/.*$"
     stroke: "^`.*$"
-    jyut6ping3: "^`j.*$"
+    jyut6ping3: "^;.*$"
     cangjie5: "^`c.*$"
-    this_translator: "^;.*$"
+    this_translator: "^~.*$"
     terra_pinyin: "^:.*$"
