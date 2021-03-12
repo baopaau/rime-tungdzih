@@ -31,137 +31,252 @@
 
 ---
 name: tungdzih
-version: "2021.03.09"
+version: "2021.03.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
-#  supplementary
+# supplementary
 袮	nii	10%
 妳	nii	20%
+啥	zha	100%
 
 
-
-# modern 
+# ne
 啊	a	100%
+扼	aec	100%
 軛	aec	100%
 掰	bai	100%
 蹦	beq	100%
 甭	berng	100%
+毘	bhi	100%
 賠	bhuei	100%
 埠	bhuh	100%
 屄	bi	100%
 婊	biao	100%
+錶	biao	100%
+搬	bon	100%
+稿	cao	100%
+糕	cau	100%
 鈣	cay	100%
 咖	cea	100%
 餃	ceao	100%
 哏	cern	100%
+勾	ceu	100%
+鈎	ceu	100%
 娼	chang	100%
+扯	chee	100%
+劍	ciemm	100%
+趕	coon	100%
+菇	cu	100%
 褂	cuah	100%
+崑	cun	100%
 滾	cuun	100%
+歹	dae	100%
+搗	dao	100%
 戥	deg	100%
+颱	dhai	100%
+蛋	dhann	100%
 淘	dhau	100%
+籘	dheng	100%
 痘	dhew	100%
 靛	dhienn	100%
 碟	dhiep	100%
 糰	dhon	100%
 搽	dhya	100%
+賺	dhyamm	100%
+肇	dhyao	100%
+着	j	100%
+着	dhyoc	100%
+着	dyoc	100%
 屌	diao	100%
+吊	diaw	100%
 疔	dieng	100%
 丟	dieu	100%
+刴	doh	100%
 躲	doo	100%
 躱	doo	100%
 找	drao	100%
 懂	dug	100%
+噸	dun	100%
 躉	duun	100%
 䍉	dyae	100%
+箚	dyap	100%
+賬	dyaq	100%
+皂	dzao	100%
+磁	dzi	100%
 瞧	dziau	100%
+摁	enn	100%
 慪	ew	100%
 吩	fen	100%
 咐	fuh	100%
+棋	gi	100%
+裙	giun	100%
+皓	hao	100%
+蠔	hau	100%
+閑	hean	100%
 晗	hom	100%
 焓	hom	100%
 蝴	hu	100%
+衚	hu	100%
+鬍	hu	100%
+魂	hun	100%
+她	i	100%
+么	iau	100%
+症	jaeq	100%
+週	jeu	100%
+咒	jew	100%
+䥷	jrat	100%
 拽	jruay	100%
+磚	juan	100%
+衆	juq	100%
+煮	juu	100%
 烤	kao	100%
 卡	keaa	100%
+啟	kee	100%
 裉	kenn	100%
+殼	keoc	100%
 搇	kimm	100%
 砍	koom	100%
 咵	kuaa	100%
+睏	kunn	100%
 綑	kuun	100%
 喇	laa	100%
+螂	lang	100%
+辣	lat	100%
+厘	li	100%
 倆	liaa	100%
 輛	liaq	100%
+聯	lien	100%
 煉	lienn	100%
 另	lieq	100%
+琉	lieu	100%
+裡	lii	100%
 檩	liim	100%
+畧	lioc	100%
 濾	liuh	100%
 鋁	liuu	100%
+咯	loc	100%
+崙	lun	100%
 嗎	ma	100%
 螞	maa	100%
 錨	mau	100%
+麽	me	100%
 們	men	100%
+覔	miec	100%
+冪	miec	100%
 抿	miin	100%
 𩞘	mon	100%
 鎂	mue	100%
+玫	muei	100%
+拿	na	100%
 哪	naa	100%
+奶	nae	100%
 擰	nieg	100%
+你	nii	100%
 您	nin	100%
 𠽋	nit	100%
+糯	noh	100%
+鞍	on	100%
 趴	pa	100%
+烹	paeng	100%
 乓	pang	100%
+飃	piau	100%
 票	piaw	100%
 乒	pieng	100%
+騙	pienn	100%
+撇	piet	100%
 碰	poq	100%
 潑	pot	100%
+呆	qai	100%
+鱷	qoc	100%
+儿	r	100%
 嚷	rag	100%
+冗	rog	100%
 仨	sa	100%
 嗓	sag	100%
+腮	sai	100%
 撒	sat	100%
 腺	senn	100%
 晌	shag	100%
+搧	shan	100%
 嬸	sheem	100%
+晒	sheen	100%
+晒	sray	100%
+弒	shih	100%
+厮	si	100%
 媳	sic	100%
 銹	siew	100%
 鋅	sin	100%
 痧	sra	100%
+虱	srit	100%
 耍	sruaa	100%
 甩	sruae	100%
 摔	sruai	100%
 閂	sruan	100%
 炧	sziee	100%
+敍	sziuu	100%
+倘	tag	100%
 躺	tag	100%
 怹	tan	100%
 塌	tap	100%
 燙	taq	100%
+牠	te	100%
 舔	tieem	100%
 掭	tiemm	100%
+鉄	tiet	100%
+托	toc	100%
 岔	trah	100%
+剎	trat	100%
+窗	truang	100%
 擦	tsat	100%
 肏	tsaw	100%
+凑	tsew	100%
 嗆	tsiaq	100%
+怱	tsung	100%
+葱	tsung	100%
 褪	tunn	100%
 拆	tyaec	100%
 撐	tyaeng	100%
 戳	tyuoc	100%
+污	u	100%
+污	uh	100%
 歪	uai	100%
 挖	uat	100%
 窩	uo	100%
+碗	uoon	100%
+碗	uon	100%
+餵	uy	100%
+衞	wey	100%
 擤	xaeg	100%
+夯	xang	100%
+耗	xaw	100%
 嗐	xay	100%
+享	xiag	100%
+嗅	xiew	100%
+胸	xiong	100%
+勗	xiouc	100%
 罕	xoon	100%
+伙	xuoo	100%
+樣	yaq	100%
 爺	ye	100%
 釉	yew	100%
 榕	yong	100%
+匝	zap	100%
 砸	zap	100%
+咱	zarm	100%
+灶	zaw	100%
 怎	zeem	100%
+鱔	zhaan	100%
+茲	zi	100%
+揪	zieu	100%
 儘	ziin	100%
 做	zoh	100%
+嘴	zue	100%
+糭	zuq	100%
 
 
-
-# special
+# diff
 嗄	a	100%
 矮	ae	100%
 顏	aean	100%
@@ -173,8 +288,8 @@ use_preset_vocabulary: true
 襬	bae	100%
 爸	bah	100%
 磅	baq	100%
-鎊	baq	100%
 鎊	pag	100%
+鎊	baq	100%
 蔔	bec	100%
 繃	beng	100%
 扒	bha	100%
@@ -192,7 +307,6 @@ use_preset_vocabulary: true
 備	bhuy	100%
 貶	drap	100%
 玻	bo	100%
-搬	bon	100%
 彼	bue	100%
 怖	buh	100%
 卑	bui	100%
@@ -209,8 +323,6 @@ use_preset_vocabulary: true
 缸	ceang	100%
 夠	cew	100%
 吃	chic	100%
-尺	chiec	100%
-赤	chiec	100%
 翅	chih	100%
 串	chuann	100%
 畿	ci	100%
@@ -221,24 +333,21 @@ use_preset_vocabulary: true
 捐	ciuan	100%
 迥	ciueg	100%
 窘	ciuun	100%
-趕	coon	100%
 卦	cuah	100%
 掛	cuah	100%
 逛	cuaq	100%
 瑰	cuey	100%
+劊	cuey	100%
 棍	cunn	100%
 汞	cuq	100%
 打	daa	100%
-歹	dae	100%
 擋	dag	100%
 獃	dai	100%
 搭	dap	100%
-帶	day	100%
 的	de	100%
 誕	dhaam	100%
+大	dhah	100%
 台	dhai	100%
-颱	dhai	100%
-蛋	dhann	100%
 導	dhao	100%
 踏	dhap	100%
 道	dhaw	100%
@@ -252,18 +361,15 @@ use_preset_vocabulary: true
 隊	dhuy	100%
 懲	dhyaeng	100%
 站	dhyamm	100%
-賺	dhyamm	100%
 塲	dhyang	100%
 嘲	dhyau	100%
 直	dhyc	100%
 值	dhyc	100%
+擲	dhyec	100%
 呈	dhyeng	100%
 程	dhyeng	100%
 鄭	dhyeq	100%
 沉	dhym	100%
-着	dhyoc	100%
-着	j	100%
-着	dyoc	100%
 蟄	dhyp	100%
 姪	dhyt	100%
 秩	dhyt	100%
@@ -295,15 +401,14 @@ use_preset_vocabulary: true
 唇	djun	100%
 聃	dom	100%
 查	dra	100%
-爪	draa	100%
 爪	druaa	100%
+爪	draa	100%
 蚱	drah	100%
 櫛	drit	100%
 抓	drua	100%
-對	due	100%
 對	duy	100%
+對	due	100%
 堆	dui	100%
-噸	dun	100%
 蹲	dun	100%
 沾	dyam	100%
 貞	dyeng	100%
@@ -325,7 +430,6 @@ use_preset_vocabulary: true
 耳	eer	100%
 爾	eer	100%
 邇	eer	100%
-摁	enn	100%
 刈	eqy	100%
 而	er	100%
 兒	er	100%
@@ -347,8 +451,8 @@ use_preset_vocabulary: true
 疿	fvuy	100%
 扛	gang	100%
 戇	gaq	100%
-強	kiag	100%
 強	giaq	100%
+強	kiag	100%
 僅	giin	100%
 局	giouc	100%
 圈	kiuan	100%
@@ -357,8 +461,6 @@ use_preset_vocabulary: true
 摜	guann	100%
 潰	guey	100%
 核	hut	100%
-皓	hao	100%
-蠔	hau	100%
 廈	srah	100%
 俠	heap	100%
 挾	heap	100%
@@ -369,10 +471,10 @@ use_preset_vocabulary: true
 熊	hiung	100%
 禾	ho	100%
 畫	huah	100%
+話	huah	100%
 彗	huey	100%
 會	huey	100%
 彙	huy	100%
-她	i	100%
 呀	ia	100%
 菸	ien	100%
 櫻	ieng	100%
@@ -381,10 +483,7 @@ use_preset_vocabulary: true
 擁	iog	100%
 雍	iong	100%
 乙	iut	100%
-症	jaeq	100%
 這	jeh	100%
-隻	jiec	100%
-炙	jiec	100%
 衹	jii	100%
 汁	jip	100%
 執	jip	100%
@@ -392,7 +491,6 @@ use_preset_vocabulary: true
 佔	jomm	100%
 盅	jong	100%
 閘	jrap	100%
-䥷	jrat	100%
 撰	jruann	100%
 鐲	jruoc	100%
 贅	juy	100%
@@ -405,9 +503,6 @@ use_preset_vocabulary: true
 訖	kit	100%
 樞	kiu	100%
 苛	ko	100%
-科	ko	100%
-窠	ko	100%
-課	koh	100%
 蒯	kuae	100%
 擴	kuoc	100%
 愧	kuy	100%
@@ -423,24 +518,21 @@ use_preset_vocabulary: true
 囉	lho	100%
 犁	li	100%
 廬	lu	100%
-率	liut	100%
 率	sruay	100%
+率	liut	100%
 屢	liuu	100%
 邏	lo	100%
-咯	loc	100%
 雷	lui	100%
 倫	lun	100%
-崙	lun	100%
 淪	lun	100%
 輪	lun	100%
 盟	maeng	100%
 盲	mang	100%
-麽	me	100%
 眸	meu	100%
 謀	meu	100%
 媽	mha	100%
 貓	mhau	100%
-乜	miee	100%
+謬	miew	100%
 祕	mih	100%
 明	ming	100%
 目	miuc	100%
@@ -451,26 +543,16 @@ use_preset_vocabulary: true
 夢	muq	100%
 母	muu	100%
 媚	muy	100%
-奶	nae	100%
 那	nah	100%
 鈉	nat	100%
 撓	nau	100%
-奈	nay	100%
 吶	ne	100%
 恁	nemm	100%
 訥	net	100%
 拈	nhiem	100%
-娘	niang	100%
 鳥	niao	100%
-釀	niaq	100%
 碾	nieen	100%
-黏	niem	100%
-粘	niem	100%
 廿	niemm	100%
-紐	nieo	100%
-聶	niep	100%
-濃	niong	100%
-女	niuu	100%
 餒	nue	100%
 內	nuy	100%
 跑	pao	100%
@@ -491,28 +573,14 @@ use_preset_vocabulary: true
 娃	qua	100%
 外	quay	100%
 玩	quon	100%
-儿	r	100%
-擾	rao	100%
-饒	rau	100%
-繞	raw	100%
-惹	ree	100%
-柔	reu	100%
-揉	reu	100%
 扔	rheng	100%
 日	rit	100%
-如	ru	100%
-儒	ru	100%
 入	rup	100%
-汝	ruu	100%
-乳	ruu	100%
 瑞	ruy	100%
 銳	ruy	100%
 臊	saw	100%
 徙	see	100%
 璽	see	100%
-晒	sheen	100%
-適	shiec	100%
-釋	shiec	100%
 溼	ship	100%
 濕	ship	100%
 失	shit	100%
@@ -533,7 +601,6 @@ use_preset_vocabulary: true
 篩	srai	100%
 稍	srau	100%
 艘	sreu	100%
-虱	srit	100%
 衰	sruai	100%
 帥	sruay	100%
 碎	suy	100%
@@ -546,10 +613,7 @@ use_preset_vocabulary: true
 趟	taq	100%
 掏	tau	100%
 套	taw	100%
-太	tay	100%
-泰	tay	100%
 它	te	100%
-牠	te	100%
 嚏	tey	100%
 跳	tiaw	100%
 挺	tieg	100%
@@ -587,29 +651,23 @@ use_preset_vocabulary: true
 輒	typ	100%
 畜	tyuc	100%
 沖	tyung	100%
-污	u	100%
 萎	ue	100%
 蝸	uo	100%
 握	uoc	100%
 齷	uoc	100%
-碗	uon	100%
 午	uu	100%
-餵	uy	100%
 丸	won	100%
 完	won	100%
 緯	wue	100%
-哈	xaa	100%
 哈	xa	100%
+哈	xaa	100%
 酐	xang	100%
-夯	xang	100%
 蝦	xea	100%
 很	xeen	100%
 鴞	xiau	100%
 凶	xiong	100%
 兇	xiong	100%
-胸	xiong	100%
 旭	xiouc	100%
-勗	xiouc	100%
 酣	xom	100%
 喝	xop	100%
 恍	xuag	100%
@@ -617,9 +675,7 @@ use_preset_vocabulary: true
 恢	xuei	100%
 詼	xuei	100%
 哄	xug	100%
-伙	xuoo	100%
 夥	xuoo	100%
-樣	yaq	100%
 淆	yeau	100%
 肴	yeau	100%
 潁	yeg	100%
@@ -647,7 +703,6 @@ use_preset_vocabulary: true
 熨	yunn	100%
 子	z	100%
 髒	zang	100%
-咱	zarm	100%
 擠	zee	100%
 劑	zey	100%
 是	zh	100%
@@ -660,8 +715,6 @@ use_preset_vocabulary: true
 舌	zhet	100%
 食	zhic	100%
 蝕	zhic	100%
-石	zhiec	100%
-碩	zhiec	100%
 示	zhih	100%
 侍	zhii	100%
 諡	zhih	100%
@@ -678,13 +731,3834 @@ use_preset_vocabulary: true
 仕	zrii	100%
 柹	zrii	100%
 足	zuc	100%
-嘴	zue	100%
 遵	zun	100%
-最	zuy	100%
 
 
+# 
+東	dung
+同	dhung
+中	dyung
+蟲	dhyung
+終	jung
+忡	tyung
+崇	jrung
+嵩	siung
+戎	rung
+弓	ciung
+融	yung
+雄	yung
+瞢	vung
+穹	kiung
+窮	giung
+馮	fvung
+風	fung
+豐	fung
+充	chung
+隆	liung
+空	kung
+公	cung
+蒙	mung
+籠	lung
+洪	hung
+叢	dzung
+翁	ung
+悤	tsung
+通	tung
+葼	zung
+蓬	bhung
+烘	xung
+㟅	qung
+𣞷	sung
+冬	dong
+彤	dhong
+賨	dzong
+農	nong
+攻	cong
+䃔	hong
+䃧	long
+宗	zong
+鬆	song
+炵	tong
+鍾	jong
+龍	liong
+舂	shong
+松	sziong
+𧘂	chong
+容	ong
+封	fong
+胷	xong
+顒	qong
+邕	ong
+醲	niong
+重	dhyong
+從	dziong
+蹱	tyong
+逢	fvong
+峯	fong
+縱	ziong
+茸	rong
+蛩	gong
+鱅	zhong
+恭	cong
+蜙	siong
+樅	tsiong
+銎	kong
+江	ceang
+厖	mang
+𦗳	nong
+囪	truang
+邦	bang
+栙	heang
+胮	pang
+瀧	long
+雙	sruang
+龐	bhang
+肛	xeang
+胦	eang
+腔	keang
+幢	dhyuang
+憃	tyuang
+樁	dyuang
+㟅	qeang
+淙	jruang
+支	ji
+移	yi
+爲	wui
+嬀	cui
+𪎮	xui
+逶	ui
+糜	mi
+隓	xui
+鬌	dhyui
+𡍮	zhui
+羸	lui
+吹	chui
+鈹	pi
+陂	bi
+隨	szui
+虧	kui
+闚	kui
+奇	gi
+祇	gi
+犧	xi
+㩻	ki
+宜	qi
+皮	bhi
+提	zhi
+兒	ri
+離	li
+疵	dzi
+貲	zi
+羈	ci
+卑	bi
+陴	bhi
+䌳	shi
+斯	si
+差	tri
+摛	tyi
+彌	mi
+雌	tsi
+知	dyi
+漪	i
+馳	dhyi
+眭	sui
+危	qui
+詑	xi
+釃	sri
+䪎	srui
+痿	rui
+𩓸	cui
+劑	zui
+衰	trui
+腄	dyui
+眵	chi
+齜	dri
+𤿎	pi
+䔺	wui
+齹	jri
+脂	ji
+姨	yi
+師	sri
+𣬈	bhi
+咨	zi
+飢	ci
+鴟	chi
+絺	tyi
+郪	tsi
+茨	dzi
+尼	ni
+墀	dhyi
+私	si
+尸	shi
+鬐	gi
+伊	i
+棃	li
+葵	gui
+追	dyui
+龜	cui
+蕤	rui
+衰	srui
+惟	wui
+㶟	lui
+綏	sui
+逵	gui
+眉	mi
+悲	bi
+錐	jui
+誰	zhui
+帷	wui
+邳	bhi
+丕	pi
+倠	xui
+鎚	dhyui
+推	chui
+胝	dyi
+紕	pi
+嶉	zui
+巋	kui
+狋	qi
+咦	xi
+之	ji
+飴	yi
+時	zhi
+疑	qi
+思	si
+輜	tri
+其	gi
+詩	shi
+而	ri
+欺	ki
+姬	ci
+詞	szi
+釐	li
+菑	dri
+僖	xi
+醫	i
+癡	tyi
+治	dhyi
+蚩	chi
+慈	dzi
+兹	zi
+茬	jri
+漦	zri
+微	vui
+揮	xui
+幃	wui
+霏	fui
+猆	fui
+肥	fvui
+威	ui
+祈	gi
+機	ci
+希	xi
+依	i
+沂	qi
+巍	qui
+歸	cui
+蘬	kui
+魚	qiu
+初	tru
+書	shu
+居	ciu
+渠	giu
+余	yu
+胥	siu
+疽	tsiu
+鉏	jru
+攄	tyu
+疏	sru
+虛	xiu
+徐	sziu
+於	iu
+豬	dyu
+臚	liu
+諸	ju
+除	dhyu
+如	ru
+且	ziu
+虛	kiu
+菹	dru
+蜍	zhu
+袽	niu
+虞	qiu
+芻	tru
+無	vu
+于	yu
+訏	xiu
+衢	giu
+儒	ru
+須	siu
+株	dyu
+貙	tyu
+殊	zhu
+逾	yu
+區	kiu
+朱	ju
+趨	tsiu
+慺	liu
+扶	fvu
+䅳	jru
+㑳	dreu
+敷	fu
+諏	ziu
+跗	fu
+紆	iu
+輸	shu
+樞	chu
+廚	dhyu
+拘	ciu
+毹	sru
+模	mu
+酺	bhu
+胡	hu
+孤	cu
+徒	dhu
+奴	nu
+呼	xu
+吾	qu
+租	zu
+盧	lu
+蘇	su
+徂	dzu
+烏	u
+逋	bu
+枯	ku
+麤	tsu
+㻌	tu
+都	du
+𥠵	pu
+齊	dzei
+黎	lei
+妻	tsei
+低	dei
+嗁	dhei
+豍	bei
+雞	cei
+奚	hei
+鷖	ei
+倪	qei
+醯	xei
+西	sei
+梯	tei
+鼙	bhei
+磇	pei
+齎	zei
+迷	mei
+泥	nei
+谿	kei
+圭	cuei
+睽	kuei
+攜	huei
+臡	rei
+栘	zhei
+烓	uei
+睳	xuei
+佳	ceai
+㥟	heai
+牌	bhai
+媧	cuai
+蛙	uai
+咼	kuai
+柴	jrai
+釵	trai
+竵	xuai
+䍲	nai
+崖	qeai
+娃	eai
+崽	srai
+㗨	xeai
+扠	tyai
+䁲	mai
+鼃	huai
+皆	ceai
+𢰇	eai
+諧	heai
+排	bhai
+乖	cuai
+懷	huai
+匯	kuai
+豺	jrai
+差	trai
+虺	xuai
+尵	dhyuai
+埋	mai
+齋	drai
+崴	uai
+𪘨	dyai
+唻	lai
+揩	keai
+搱	nai
+崽	srai
+𩂢	qeai
+搋	tyai
+俙	xeai
+䐯	luai
+膗	jruai
+灰	xuei
+恢	kuei
+隈	uei
+回	huei
+枚	muei
+傀	cuei
+雷	luei
+穨	dhuei
+崔	tsuei
+磓	duei
+𤗯	suei
+摧	dzuei
+裴	bhuei
+桮	buei
+肧	puei
+鮠	quei
+𨌴	tuei
+𢆃	nuei
+嗺	zuei
+咍	xai
+開	kai
+哀	ai
+臺	dhai
+該	cai
+裁	dzai
+來	lai
+烖	zai
+猜	tsai
+胎	tai
+孩	hai
+鰓	sai
+皚	qai
+能	nai
+𪒴	dai
+㹗	chai
+真	jen
+𤣆	tyen
+因	in
+新	sin
+辰	zhen
+仁	ren
+神	djen
+親	tsin
+礥	yin
+申	shen
+賓	bin
+㷠	lin
+𥎊	gin
+珍	dyen
+陳	dhyen
+津	zin
+瞋	chen
+秦	dzin
+寅	yin
+紉	nin
+繽	pin
+頻	bhin
+銀	qin
+巾	cin
+麏	ciun
+筠	yun
+囷	kiun
+珉	min
+貧	bhin
+𪔗	in
+贇	iun
+彬	bin
+民	min
+諄	jun
+椿	tyun
+䣩	dhyun
+荀	siun
+純	zhun
+犉	run
+脣	djun
+淪	liun
+屯	dyun
+逡	tsiun
+遵	ziun
+春	chun
+鷷	dziun
+勻	yun
+旬	sziun
+均	ciun
+𧼒	gin
+砏	pin
+臻	dren
+莘	sren
+𦿒	jren
+文	ven
+雲	yun
+熅	iun
+汾	fven
+分	fen
+羣	giun
+薰	xiun
+君	ciun
+芬	fen
+欣	xin
+殷	in
+勤	gin
+斤	cin
+䖐	qin
+元	qiuan
+袁	yuan
+煩	fvan
+飜	fan
+暄	xiuan
+鴛	iuan
+言	qien
+攑	kien
+軒	xien
+𢳚	cien
+蔫	ien
+蕃	fan
+𥴤	gien
+樠	van
+䰟	hun
+昆	cun
+𥁕	un
+門	men
+孫	sun
+尊	zun
+存	dzun
+敦	dun
+暾	tun
+屯	dhun
+村	tsun
+㑮	qun
+盆	bhen
+奔	ben
+論	lun
+坤	kun
+昏	xun
+濆	pen
+黁	nun
+痕	hen
+根	cen
+恩	en
+吞	ten
+垠	qen
+寒	hon
+豻	qon
+單	dan
+安	on
+難	nan
+餐	tsan
+灘	tan
+𦙱	san
+壇	dhan
+殘	dzan
+干	con
+蘭	lan
+看	kon
+頇	xon
+濡	non
+桓	huon
+岏	quon
+端	don
+剜	uon
+湍	ton
+酸	son
+團	dhon
+欑	dzon
+官	cuon
+鑾	lon
+歡	xuon
+寬	kuon
+鑽	zon
+槃	bhon
+瞞	mon
+潘	pon
+𤳖	bon
+刪	sran
+關	cuan
+彎	uan
+𣟴	sruan
+還	huan
+班	ban
+蠻	man
+顏	qean
+姦	cean
+攀	pan
+奻	nuan
+𤸷	quan
+馯	kean
+跧	druan
+山	sran
+鰥	cuan
+間	cean
+閒	hean
+慳	kean
+虥	jran
+羴	xean
+訮	qean
+黰	ean
+斒	ban
+斕	lan
+嘫	nan
+㺗	chan
+𡣬	uan
+窀	dhyuan
+𡰠	luan
+𡰝	guan
+譠	dyan
+𤣆	dhyan
+湲	huan
+先	sien
+前	dzien
+千	tsien
+箋	zien
+天	tien
+堅	cien
+賢	hien
+煙	ien
+蓮	lien
+田	dhien
+秊	nien
+顛	dien
+牽	kien
+妍	qien
+眠	mien
+蹁	bhien
+淵	iuan
+涓	ciuan
+鋗	xiuan
+邊	bien
+玄	hiuan
+祆	xien
+𤜼	jruan
+仙	sien
+錢	dzien
+遷	tsien
+煎	zien
+然	ran
+延	yen
+𩜾	jan
+甄	cien
+邅	dyan
+潺	jran
+羶	shan
+脠	tyan
+鋋	zhan
+纏	dhyan
+嘕	xien
+連	lien
+篇	pien
+便	bhien
+緜	mien
+全	dziuan
+宣	siuan
+鐫	ziuan
+翾	xiuan
+堧	ruan
+穿	chuan
+沿	yuan
+旋	sziuan
+娟	iuan
+船	djuan
+鞭	bien
+㳄	szien
+詮	tsiuan
+專	juan
+遄	zhuan
+員	yuan
+恮	druan
+栓	sruan
+猭	tyuan
+乾	gien
+愆	kien
+權	giuan
+椽	dhyuan
+攣	liuan
+弮	kiuan
+焉	ien
+漹	yen
+𡣬	iuan
+燀	chan
+𡰝	dyuan
+勬	ciuan
+蕭	siau
+祧	tiau
+貂	diau
+迢	dhiau
+驍	ciau
+聊	liau
+堯	qiau
+膮	xiau
+幺	iau
+鄡	kiau
+宵	siau
+超	tyau
+朝	dyau
+鼂	dhyau
+囂	xiau
+樵	dziau
+驕	ciau
+焦	ziau
+饒	rau
+燒	shau
+遙	yau
+韶	zhau
+昭	jau
+飆	biau
+鑣	biau
+瓢	bhiau
+蜱	miau
+苗	miau
+要	iau
+鴞	yau
+喬	giau
+鍫	tsiau
+妖	iau
+蹻	kiau
+怊	chau
+𤐫	piau
+翹	giau
+燎	liau
+趫	kiau
+肴	heau
+交	ceau
+巢	jrau
+鐃	nau
+梢	srau
+茅	mau
+虓	xeau
+包	bau
+胞	pau
+敲	keau
+聱	qeau
+𦗔	drau
+嘲	dyau
+䜈	trau
+庖	bhau
+䫜	eau
+䫸	tyau
+顟	lau
+䄻	dhyau
+豪	hau
+高	cau
+勞	lau
+蒿	xau
+毛	mau
+饕	tau
+刀	dau
+騷	sau
+袍	bhau
+襃	bau
+陶	dhau
+糟	zau
+敖	qau
+曹	dzau
+𤏶	au
+猱	nau
+尻	kau
+操	tsau
+㯱	pau
+歌	co
+蹉	tso
+多	do
+娑	so
+駝	dho
+醝	dzo
+莪	qo
+佗	to
+羅	lo
+那	no
+何	ho
+訶	xo
+珂	ko
+阿	o
+戈	cuo
+遳	tso
+𨹄	do
+莎	so
+婆	bho
+㸰	dho
+摩	mo
+矬	dzo
+訛	quo
+詑	to
+𩼊	lo
+捼	no
+波	bo
+頗	po
+和	huo
+科	ko
+倭	uo
+鞾	xiue
+𦚢	iue
+𩨷	kiue
+伽	gie
+佉	kie
+迦	cie
+脞	tsiue
+侳	ziue
+瘸	giue
+𦣛	liue
+麻	ma
+車	che
+奢	she
+邪	ye
+遮	je
+嗟	zie
+蛇	dje
+華	hua
+瓜	cua
+華	xua
+誇	kua
+拏	na
+嘉	cea
+遐	hea
+葩	pa
+鴉	ea
+巴	ba
+叉	tra
+鯊	sra
+牙	qea
+樝	dra
+𡨀	dhya
+衺	szie
+闍	zhe
+窊	ua
+髽	drua
+檛	dyua
+爬	bha
+楂	jra
+侘	tya
+奓	dya
+煆	xea
+䶗	kea
+㚗	dzie
+若	re
+些	sie
+爹	dye
+𣢉	qua
+陽	yang
+詳	sziang
+良	liang
+香	xiang
+商	shang
+房	fvang
+章	jang
+昌	chang
+羌	kiang
+薑	ciang
+長	dhyang
+張	dyang
+穰	rang
+方	fang
+襄	siang
+將	ziang
+創	trang
+亡	vang
+孃	niang
+牀	jrang
+莊	drang
+常	zhang
+霜	srang
+牆	dziang
+鏘	tsiang
+匡	kuang
+王	wang
+央	iang
+強	giang
+𦳝	tyang
+芳	fang
+狂	guang
+唐	dhang
+郎	lang
+當	dang
+倉	tsang
+岡	cang
+桑	sang
+康	kang
+荒	xuang
+黃	huang
+光	cuang
+湯	tang
+滂	pang
+汪	uang
+鴦	ang
+炕	xang
+航	hang
+茫	mang
+臧	zang
+囊	nang
+傍	bhang
+卬	qang
+藏	dzang
+䯑	kuang
+幫	bang
+庚	caeng
+阬	kaeng
+盲	maeng
+橫	huaeng
+閍	baeng
+諻	xuaeng
+觵	cuaeng
+彭	bhaeng
+脝	xaeng
+瞠	tyaeng
+鎗	traeng
+傖	jraeng
+霙	ieng
+磅	paeng
+平	bhieng
+驚	cieng
+明	mieng
+棖	dhyaeng
+趟	dyaeng
+榮	yueng
+兵	bieng
+兄	xiueng
+卿	kieng
+生	sraeng
+擎	gieng
+迎	qieng
+行	haeng
+鬤	naeng
+耕	caeng
+鏗	kaeng
+甍	maeng
+浜	baeng
+宏	huaeng
+莖	haeng
+朾	dyaeng
+甖	aeng
+崢	jraeng
+琤	traeng
+儜	naeng
+怦	paeng
+轟	xuaeng
+橙	dhyaeng
+泓	uaeng
+輣	bhaeng
+娙	qaeng
+爭	draeng
+清	tsieng
+情	dzieng
+精	zieng
+盈	yeng
+營	yueng
+嬰	ieng
+貞	dyaeng
+檉	tyaeng
+成	zhaeng
+呈	dhyaeng
+聲	shaeng
+征	jaeng
+輕	kieng
+名	mieng
+跉	lieng
+并	bieng
+傾	kiueng
+𩛿	szieng
+縈	iueng
+瓊	giueng
+騂	siueng
+頸	gieng
+𧵣	xiueng
+青	tsieng
+經	cieng
+㓝	hieng
+庭	dhieng
+丁	dieng
+馨	xieng
+星	sieng
+竮	pieng
+靈	lieng
+寧	nieng
+汀	tieng
+冥	mieng
+瓶	bhieng
+熒	hiueng
+扃	ciueng
+蒸	jeng
+承	zheng
+澂	dhyeng
+陵	ling
+膺	ing
+凭	bhing
+冫	bing
+蠅	ying
+繩	djeng
+升	sheng
+仍	reng
+兢	cing
+徵	dyeng
+繒	dzing
+凝	qing
+興	xing
+稱	cheng
+殑	ging
+㱡	sreng
+硱	king
+僜	tyeng
+磳	jreng
+砯	ping
+登	deng
+楞	leng
+僧	seng
+崩	beng
+增	zeng
+瞢	meng
+層	dzeng
+朋	bheng
+弘	hueng
+肱	cueng
+薨	xueng
+能	neng
+騰	dheng
+恆	heng
+揯	ceng
+鼟	teng
+漰	peng
+尤	yeu
+憂	ieu
+劉	lieu
+秋	tsieu
+猷	yeu
+牛	qieu
+遒	zieu
+酋	dzieu
+脩	sieu
+抽	tyeu
+𠁫	kieu
+犫	cheu
+周	jeu
+讎	zheu
+柔	reu
+收	sheu
+䬌	feu
+鳩	cieu
+不	feu
+𢯱	sreu
+搊	treu
+鄒	dreu
+愁	jreu
+休	xieu
+囚	szieu
+儔	dhyeu
+輈	dyeu
+𧚍	gieu
+浮	fveu
+謀	veu
+侯	heu
+謳	eu
+羺	neu
+樓	leu
+涑	seu
+彄	keu
+齁	xeu
+𣠏	zeu
+偷	teu
+頭	dheu
+齵	qeu
+鉤	ceu
+兜	deu
+㔌	dzeu
+裒	bheu
+䜅	tseu
+呣	meu
+幽	ieu
+虯	gieu
+彪	beu
+鏐	lieu
+樛	cieu
+淲	bheu
+稵	zieu
+犙	sram
+聱	qieu
+飍	xieu
+繆	meu
+侵	tsim
+尋	szim
+林	lim
+琛	tyem
+斟	jem
+沈	dhyem
+碪	dyem
+諶	zhem
+任	rem
+深	shem
+淫	yim
+心	sim
+愔	im
+祲	zim
+𩷒	dzim
+䛘	nim
+琴	gim
+欽	kim
+吟	qim
+歆	xim
+金	cim
+音	im
+森	srem
+岑	jrem
+兂	drem
+嵾	trem
+𧡪	chem
+覃	dhom
+參	tsom
+南	nom
+諳	om
+含	hom
+婪	lom
+蠶	dzom
+簪	zom
+探	tom
+耽	dom
+龕	kom
+㟏	xom
+毿	som
+弇	com
+䜙	qom
+談	dham
+甘	com
+擔	dam
+三	sam
+藍	lam
+坩	kom
+舑	tam
+慙	dzam
+酣	hom
+姏	mom
+𩈻	zam
+蚶	xom
+鹽	yem
+廉	liem
+砭	bam
+銛	siem
+籤	tsiem
+詹	jom
+棎	zhom
+苫	shom
+䪜	chom
+𩓾	rom
+黏	niem
+炎	yem
+霑	dyom
+覘	tyom
+淹	iem
+𢜩	kiem
+𪙊	qiem
+尖	ziem
+潛	dziem
+箝	giem
+懕	iem
+燅	sziem
+襳	srom
+㶣	dhyom
+鍼	giem
+添	tiem
+𩬑	diem
+甜	dhiem
+鬑	liem
+謙	kiem
+兼	ciem
+嫌	hiem
+鮎	niem
+馦	xiem
+咸	heam
+緘	ceam
+攕	sram
+𤟟	eam
+嵒	qeam
+㰹	xeam
+詀	dyam
+諵	nom
+讒	jram
+鵮	keam
+銜	heam
+巉	jram
+巖	qeam
+攙	tram
+衫	sram
+監	ceam
+𨂝	bham
+嵌	keam
+嚴	qiem
+𩏩	xiem
+醃	iem
+㪁	kiem
+凡	fvam
+䒦	fam
+董	dug
+蠓	mug
+孔	kug
+㪌	sug
+侗	tug
+總	zug
+澒	hug
+蓊	ug
+𨑊	nug
+琫	bug
+曨	lug
+嗊	xug
+動	dhug
+菶	bhug
+腫	jog
+寵	tyog
+隴	liog
+擁	og
+宂	rog
+重	dhyog
+冢	dyog
+奉	fvog
+捧	fog
+勇	og
+恐	kog
+尰	zhog
+拱	cog
+悚	siog
+洶	xog
+覂	fog
+湩	dog
+𪁪	mog
+䅃	gog
+𨿿	chog
+䙕	ziog
+講	ceag
+㭋	bhag
+慃	eag
+𠈵	mag
+項	heag
+𦂌	bag
+傋	xeag
+紙	jii
+是	zhii
+靡	mii
+彼	bii
+被	bhii
+毀	xue
+委	ue
+跪	kue
+詭	cue
+髓	sue
+絫	lue
+技	gii
+倚	ii
+掎	cii
+綺	kii
+螘	qii
+蔿	wue
+觜	zue
+蘂	rue
+此	tsii
+豸	dhyii
+徙	sii
+酏	yii
+邐	lii
+躧	srii
+𢔌	bii
+爾	rii
+渳	mii
+婢	bhii
+侈	chii
+弛	shii
+紫	zii
+捶	jue
+揣	true
+𤢍	szue
+舓	djii
+㧗	drii
+㱟	pii
+諀	pii
+䓈	wue
+惢	dzue
+跬	kue
+狔	nii
+硊	que
+跪	gue
+褫	tyii
+㨖	dyii
+𪖥	xii
+企	kii
+菙	zhue
+枳	cii
+旨	jii
+視	zhii
+美	mii
+鄙	bii
+兕	szii
+几	cii
+姊	zii
+匕	bii
+軌	cue
+洧	wue
+矢	shii
+雉	dhyii
+死	sii
+牝	bhii
+履	lii
+水	shue
+壘	lue
+揆	gue
+趡	tsue
+柅	nii
+癸	cue
+否	bhii
+㠑	dzue
+嚭	pii
+蕊	rue
+唯	wue
+㰻	ii
+濢	zue
+黹	dyii
+𡳭	tyii
+䁤	xue
+䣀	gue
+跽	gii
+巋	kue
+止	jii
+市	zhii
+徵	dyii
+喜	xii
+紀	cii
+以	yii
+似	szii
+史	srii
+耳	rii
+里	lii
+枲	sii
+始	shii
+歭	dhyii
+起	kii
+士	jrii
+俟	zrii
+子	zii
+矣	yii
+擬	qii
+齒	chii
+恥	tyii
+㓼	trii
+滓	drii
+譩	ii
+伱	nii
+尾	vue
+扆	ii
+豈	kii
+蟣	cii
+斐	fue
+匪	fue
+韙	wue
+鬼	cue
+虺	xue
+顗	qii
+豨	xii
+磈	ue
+膹	fvue
+語	qiuu
+呂	liuu
+佇	dhyuu
+與	yuu
+䰞	juu
+汝	ruu
+暑	shuu
+杵	chuu
+貯	dyuu
+諝	siuu
+楮	tyuu
+女	niuu
+許	xiuu
+巨	giuu
+所	sruu
+楚	truu
+阻	druu
+齟	jruu
+咀	dziuu
+𢮁	iuu
+舉	ciuu
+敘	sziuu
+去	kiuu
+紓	djuu
+野	zhuu
+𤿚	tsiuu
+苴	ziuu
+麌	qiuu
+羽	yuu
+聚	dziuu
+甫	fuu
+武	vuu
+父	fvuu
+撫	fuu
+柱	dhyuu
+詡	xiuu
+豎	zhuu
+庾	yuu
+主	juu
+傴	iuu
+齲	kiuu
+拄	dyuu
+乳	ruu
+窶	giuu
+數	sruu
+矩	ciuu
+取	tsiuu
+縷	liuu
+𦄼	siuu
+䝒	jruu
+姥	muu
+土	tuu
+杜	dhuu
+魯	luu
+蔖	tsuu
+覩	duu
+古	cuu
+五	quu
+簿	bhuu
+粗	dzuu
+祖	zuu
+虎	xuu
+隖	uu
+苦	kuu
+怒	nuu
+戶	huu
+普	puu
+補	buu
+薺	dzee
+禮	lee
+體	tee
+䫌	pee
+濟	zee
+邸	dee
+弟	dhee
+禰	nee
+洗	see
+泚	tsee
+啓	kee
+徯	hee
+米	mee
+陛	bhee
+𠯋	ee
+堄	qee
+㪏	bee
+蟹	heae
+買	mae
+䒓	keae
+廌	dhyae
+嬭	nae
+罷	bhae
+矮	eae
+擺	bae
+解	ceae
+灑	srae
+𠁥	cuae
+㧳	dhyuae
+夥	huae
+扮	xuae
+箉	geae
+駭	heae
+楷	keae
+騃	qeae
+挨	eae
+賄	xuee
+猥	uee
+磥	luee
+錞	dhuee
+辠	dzuee
+浼	muee
+骽	tuee
+瘣	huee
+䫥	kuee
+𦞙	duee
+餧	nuee
+頠	quee
+皠	tsuee
+琲	bhuee
+嶊	zuee
+海	xae
+愷	kae
+宰	zae
+駘	dhae
+乃	nae
+改	cae
+亥	hae
+啡	puee
+采	tsae
+茝	chae
+等	dae
+在	dzae
+欸	ae
+佁	ae
+㘆	tae
+疓	rae
+𨦂	lae
+軫	jeen
+辴	tyeen
+腎	zheen
+忍	reen
+矤	sheen
+嶙	liin
+紖	dhyeen
+緊	ciin
+盡	dziin
+㯸	ziin
+牝	bhiin
+釿	qiin
+笉	tsiin
+窘	giuun
+引	yiin
+愍	miin
+泯	miin
+殞	yuun
+準	juun
+尹	yuun
+筍	siuun
+蝡	ruun
+蠢	chuun
+盾	djuun
+偆	tyuun
+耣	liuun
+𦃢	kiuun
+螼	kiin
+賰	shuun
+脪	xiin
+濜	jreen
+屒	dyeen
+吻	veen
+粉	feen
+憤	fveen
+忿	feen
+惲	iuun
+齳	qiuun
+抎	yuun
+𧼐	kiuun
+隱	iin
+謹	ciin
+𧤛	dreen
+赾	kiin
+近	giin
+齔	treen
+听	qiin
+䘆	xiin
+阮	qiuaan
+遠	yuaan
+偃	ieen
+湕	cieen
+寋	gieen
+𧥛	kieen
+𧥜	qieen
+幰	xieen
+晚	vaan
+反	faan
+𧯦	giuaan
+婉	iuaan
+䅚	kiuaan
+暅	xiuaan
+飯	fvaan
+混	huun
+翉	peen
+忖	tsuun
+本	been
+損	suun
+𠟃	zuun
+穩	uun
+囤	dhuun
+鱒	dzuun
+𩩌	cuun
+畽	tuun
+閫	kuun
+㤻	luun
+獖	bheen
+懣	meen
+㶧	nuun
+𦃕	xuun
+很	heen
+墾	keen
+䫀	ceen
+旱	hoon
+亶	daan
+坦	taan
+散	saan
+但	dhaan
+瓚	dzaan
+笴	coon
+嬾	laan
+侃	koon
+䍐	xoon
+䰖	zaan
+緩	huoon
+短	doon
+椀	uoon
+疃	toon
+算	soon
+管	cuoon
+卵	loon
+款	kuoon
+煗	noon
+纂	zoon
+伴	bhoon
+滿	moon
+粄	boon
+鄹	szoon
+斷	dhoon
+攤	naan
+坢	poon
+潸	sraan
+綰	uaan
+版	baan
+䩆	draan
+赧	naan
+僩	heaan
+睆	huaan
+阪	bhaan
+矕	maan
+𪘪	jraan
+𪗙	qeaan
+㹽	traan
+眅	paan
+撰	jruaan
+產	sraan
+限	heaan
+𥇅	maan
+簡	ceaan
+剗	traan
+棧	jraan
+眼	qeaan
+醆	draan
+㦃	truaan
+齦	keaan
+銑	sieen
+腆	tieen
+典	dieen
+蝘	ieen
+殄	dhieen
+繭	cieen
+峴	hieen
+顯	xieen
+㨠	mieen
+撚	nieen
+編	bieen
+泫	hiuaan
+𡿨	ciuaan
+辮	bhieen
+犬	kiuaan
+𥧬	kieen
+齞	qieen
+獮	sieen
+演	yeen
+踐	dzieen
+展	dyaan
+𦗢	jaan
+趁	nieen
+淺	tsieen
+闡	chaan
+遣	kieen
+蹇	cieen
+善	zhaan
+翦	zieen
+蹨	raan
+𦆀	szieen
+輦	lieen
+齴	qieen
+件	gieen
+辯	bhieen
+緬	mieen
+褊	bieen
+臇	ziuaan
+雋	dziuaan
+辡	bieen
+兗	yuaan
+臠	liuaan
+轉	dyuaan
+卷	ciuaan
+圈	giuaan
+輭	ruaan
+舛	chuaan
+膞	zhuaan
+篆	dhyuaan
+剸	juaan
+選	siuaan
+撰	jruaan
+蜎	giuaan
+蠉	xiuaan
+楩	bhieen
+免	mieen
+搌	tyaan
+鴘	pieen
+㒄	shaan
+㫃	ieen
+邅	dhyaan
+棧	jraan
+篠	siao
+皎	ciao
+鳥	diao
+了	liao
+朓	tiao
+䥵	xiao
+杳	iao
+嬲	niao
+皛	hiao
+窕	dhiao
+磽	kiao
+湫	ziao
+小	siao
+肈	dhyao
+沼	jao
+夭	iao
+巐	tyao
+少	shao
+擾	rao
+摽	bhiao
+𪍑	chao
+縹	piao
+眇	miao
+紹	zhao
+矯	ciao
+表	biao
+褾	biao
+藨	bhiao
+鷕	yao
+悄	tsiao
+剿	ziao
+𨲭	giao
+繚	liao
+麃	piao
+闄	iao
+巧	keao
+澩	heao
+飽	bao
+㺒	nao
+卯	mao
+絞	ceao
+爪	drao
+拗	eao
+鮑	bhao
+齩	qeao
+䰫	jrao
+煼	trao
+䝤	dyao
+㪢	srao
+晧	hao
+抱	bhao
+老	lao
+討	tao
+道	dhao
+堖	nao
+㛮	sao
+倒	dao
+草	tsao
+早	zao
+皁	dzao
+暠	cao
+好	xao
+蓩	mao
+寶	bao
+襖	ao
+考	kao
+𦽀	qao
+哿	coo
+瑳	tsoo
+嚲	doo
+縒	soo
+爹	dhoo
+我	qoo
+袉	too
+㰁	loo
+橠	noo
+荷	hoo
+㰤	xoo
+可	koo
+𨵌	oo
+左	zoo
+果	cuoo
+埵	doo
+鎖	soo
+墮	dhoo
+妥	too
+麼	moo
+坐	dzoo
+㛂	quoo
+裸	loo
+婐	uoo
+㛂	noo
+跛	boo
+叵	poo
+禍	huoo
+火	xuoo
+顆	koo
+爸	bhoo
+脞	tsoo
+馬	maa
+者	jee
+野	yee
+雅	qeaa
+檟	ceaa
+灑	sraa
+啞	eaa
+灺	sziee
+下	heaa
+寫	siee
+𡎬	druaa
+乜	miee
+且	tsiee
+㗿	xeaa
+社	zhee
+跒	keaa
+跁	bhaa
+捨	shee
+姐	ziee
+把	baa
+踝	huaa
+寡	cuaa
+瓦	quaa
+若	ree
+鮓	draa
+觰	dyaa
+槎	jraa
+奲	chee
+䋈	naa
+髁	kuaa
+䂳	truaa
+䊬	tyuaa
+葰	sruaa
+奼	tyaa
+藞	laa
+養	yag
+像	sziag
+㢡	ziag
+㒳	liag
+鞅	iag
+勥	giag
+仰	qiag
+磢	trag
+想	siag
+掌	jag
+𤕤	srag
+響	xiag
+敞	chag
+繈	ciag
+丈	dhyag
+昶	tyag
+獷	cuag
+壤	rag
+賞	shag
+髣	fag
+网	vag
+昉	fag
+枉	uag
+往	wag
+怳	xuag
+搶	tsiag
+長	dyag
+上	zhag
+俇	guag
+𩦠	fvag
+蕩	dhag
+顙	sag
+廣	cuag
+榜	bag
+駔	zag
+曩	nag
+沆	hag
+曭	tag
+莽	mag
+黨	dag
+朗	lag
+坱	ag
+慷	kag
+㳹	uag
+晃	huag
+髈	pag
+慌	xuag
+䴚	cag
+䭹	qag
+奘	dzag
+蒼	tsag
+汻	xag
+懬	kuag
+梗	caeg
+丙	bieg
+警	cieg
+影	ieg
+省	sraeg
+永	yueg
+𦬺	xiueg
+皿	mieg
+憬	ciueg
+杏	haeg
+猛	maeg
+礦	cuaeg
+浜	baeg
+盯	dyaeg
+瑒	dhyaeg
+䁝	uaeg
+冷	laeg
+卝	huaeg
+鮩	bhaeg
+𥉁	kuaeg
+檸	naeg
+耿	caeg
+䁅	maeg
+幸	haeg
+𠊧	bhaeg
+皏	paeg
+靜	dzieg
+整	jaeg
+逞	tyaeg
+郢	yeg
+痙	gieg
+潁	yueg
+領	lieg
+頸	cieg
+餅	bieg
+頃	kiueg
+井	zieg
+廮	ieg
+請	tsieg
+省	sieg
+眳	mieg
+徎	dhyaeg
+迥	hiueg
+熲	ciueg
+茗	mieg
+頂	dieg
+挺	dhieg
+珽	tieg
+汫	dzieg
+濙	iueg
+謦	kieg
+𩕳	nieg
+婞	hieg
+醒	sieg
+鞞	bieg
+褧	kiueg
+剄	cieg
+頩	pieg
+巊	ieg
+笭	lieg
+竝	bhieg
+詗	xiueg
+䀴	qieg
+拯	jeg
+庱	tyeg
+殑	gig
+㱡	sreg
+等	deg
+倗	peg
+肯	keg
+能	neg
+有	yeo
+柳	lieo
+狃	nieo
+丑	tyeo
+肘	dyeo
+朽	xieo
+久	cieo
+首	sheo
+醜	cheo
+湫	dzieo
+婦	fveo
+缶	feo
+糗	kieo
+蹂	reo
+舅	gieo
+紂	dhyeo
+酉	yeo
+受	zheo
+滫	sieo
+䬀	ieo
+酒	zieo
+溲	sreo
+帚	jeo
+㤱	feo
+掫	dreo
+𥣙	jreo
+𩋄	treo
+厚	heo
+母	meo
+部	bheo
+斗	deo
+𪌘	teo
+苟	ceo
+藕	qeo
+㨐	beo
+㝅	neo
+叜	seo
+吼	xeo
+剖	peo
+歐	eo
+塿	leo
+走	zeo
+口	keo
+䕆	dheo
+鯫	dzeo
+趣	tseo
+黝	ieo
+糾	cieo
+蟉	gieo
+寑	tsiim
+朕	dhyeem
+坅	kiim
+廩	liim
+罧	siim
+踸	tyeem
+䤐	ziim
+荏	reem
+枕	jeem
+沈	sheem
+葚	djeem
+甚	zheem
+瀋	cheem
+墋	treem
+拰	niim
+噤	giim
+錦	ciim
+蕈	dziim
+僸	qiim
+㾕	sreem
+稟	biim
+㱃	iim
+品	piim
+廞	xiim
+戡	dyeem
+潭	yiim
+𩒣	jreem
+感	coom
+禫	dhoom
+晻	oom
+腩	noom
+襑	toom
+歜	dzoom
+慘	tsoom
+顉	qoom
+昝	zoom
+糂	soom
+坎	koom
+頷	hoom
+壈	loom
+黕	doom
+䫲	xoom
+敢	coom
+㶒	sheem
+覽	laam
+𦵹	taam
+膽	daam
+噉	dhaam
+黲	tsaam
+㛧	moom
+䭕	zaam
+槧	dzaam
+喊	xoom
+埯	oom
+𠪚	koom
+琰	yeem
+斂	lieem
+險	xieem
+貶	bieem
+颭	joom
+𩑳	kieem
+顩	qieem
+儉	gieem
+檢	cieem
+黶	ieem
+冉	room
+陝	shoom
+諂	tyoom
+奄	ieem
+漸	dzieem
+憸	tsieem
+𩟗	zieem
+脥	kieem
+剡	zhoom
+忝	tieem
+淰	nieem
+點	dieem
+簟	dhieem
+嗛	kieem
+稴	lieem
+鼸	hieem
+憯	tsieem
+孂	cieem
+𡕢	mieem
+儼	qieem
+欦	kieem
+埯	ieem
+豏	heaam
+湛	dhyaam
+㦿	keaam
+鹼	ceaam
+瀺	jraam
+臉	lieem
+斬	draam
+䑎	traam
+鬫	xeaam
+摻	sraam
+黯	eaam
+𦊔	noom
+𠐩	tyaam
+檻	heaam
+䫡	keaam
+㨻	sraam
+黤	eaam
+醶	traam
+㺖	xeaam
+巉	jraam
+范	fveem
+錽	veem
+𦜒	feem
+釩	feem
+𠑆	tyoom
+送	suq
+鳳	fvuq
+貢	cuq
+弄	luq
+涷	duq
+控	kuq
+糉	zuq
+瓮	uq
+謥	tsuq
+洞	dhuq
+痛	tuq
+仲	dhyuq
+諷	fuq
+焪	kiuq
+㝱	vuq
+𧽒	xiuq
+𢄐	muq
+趥	tsiuq
+賵	fuq
+𣀒	dzuq
+中	dyuq
+哄	huq
+齈	nuq
+眾	juq
+銃	chuq
+㓽	jruq
+烘	xuq
+宋	soq
+綜	zoq
+統	toq
+雺	moq
+䃔	hoq
+用	oq
+頌	szioq
+俸	fvoq
+共	goq
+葑	foq
+供	coq
+雍	oq
+湩	dyoq
+縱	zioq
+蹱	tyoq
+䩸	roq
+種	joq
+重	dhyoq
+贚	lioq
+恐	koq
+從	dzioq
+𢫨	nioq
+絳	ceaq
+巷	heaq
+戇	dyuaq
+䡴	dhyuaq
+𥈄	tyuaq
+漴	jruaq
+肨	paq
+䎫	truaq
+淙	sruaq
+寘	jih
+避	bhih
+惴	juy
+詈	lih
+豉	zhih
+積	zih
+賜	sih
+爲	wuy
+䞈	cuy
+帔	pih
+賁	bih
+髲	bhih
+累	luy
+寄	cih
+臂	bih
+芰	gih
+刺	tsih
+易	yih
+議	qih
+譬	pih
+漬	dzih
+智	dyih
+倚	ih
+縋	dhyuy
+吹	chuy
+戲	xih
+企	kih
+縊	ih
+翅	shih
+屣	srih
+觖	kuy
+餧	uy
+僞	quy
+毀	xuy
+恚	uy
+睡	zhuy
+馶	cih
+䄲	ruy
+卶	chih
+䅗	suy
+娷	dyuy
+瓗	wuy
+諉	nuy
+瞡	cuy
+𧙁	drih
+孈	xuy
+㞆	kih
+至	jih
+位	wuy
+郿	mih
+遂	szuy
+醉	zuy
+邃	suy
+類	luy
+祕	bih
+匱	guy
+濞	pih
+備	bhih
+媿	cuy
+帥	sruy
+喟	kuy
+豷	xuy
+嗜	zhih
+利	lih
+膩	nih
+屁	pih
+劓	qih
+致	dyih
+棄	kih
+緻	dhyih
+寐	mih
+杘	tyih
+冀	cih
+臮	gih
+悸	guy
+翠	tsuy
+二	rih
+恣	zih
+次	tsih
+懿	ih
+四	sih
+器	kih
+季	cuy
+鼻	bhih
+䁤	xuy
+痹	bih
+萃	dzuy
+地	dhih
+齂	xih
+肄	yih
+示	djih
+自	dzih
+墜	dhyuy
+出	chuy
+遺	wuy
+轛	dyuy
+痓	chih
+屍	shih
+㿷	truy
+㽷	shuy
+志	jih
+值	dhyih
+寺	szih
+蛓	tsih
+笥	sih
+試	shih
+胾	drih
+吏	lih
+字	dzih
+眙	tyih
+餌	rih
+駛	srih
+廁	trih
+異	yih
+置	dyih
+侍	zhih
+事	jrih
+忌	gih
+熾	chih
+意	ih
+記	cih
+憙	xih
+䰯	qih
+亟	kih
+未	vuy
+貴	cuy
+胃	wuy
+魏	quy
+沸	fuy
+費	fuy
+𥽂	kuy
+尉	uy
+諱	xuy
+𥝋	fvuy
+既	cih
+毅	qih
+氣	kih
+欷	xih
+䤒	gih
+衣	ih
+御	qiuh
+慮	liuh
+據	ciuh
+覰	tsiuh
+㰦	kiuh
+署	zhuh
+恕	shuh
+著	dyuh
+䬡	juh
+疏	sruh
+飫	iuh
+箸	dhyuh
+遽	giuh
+絮	siuh
+助	jruh
+怚	ziuh
+詛	druh
+洳	ruh
+豫	yuh
+噓	xiuh
+女	niuh
+楚	truh
+處	chuh
+絮	tyuh
+𡱣	sziuh
+遇	qiuh
+嫗	iuh
+樹	zhuh
+住	dhyuh
+附	fvuh
+注	juh
+屨	ciuh
+昫	xiuh
+戍	shuh
+裕	yuh
+孺	ruh
+赴	fuh
+務	vuh
+緅	ziuh
+懼	giuh
+芋	yuh
+埾	dziuh
+捒	sruh
+付	fuh
+娶	tsiuh
+註	dyuh
+驅	kiuh
+菆	truh
+𨳳	tyuh
+尠	siuh
+屢	liuh
+暮	muh
+渡	dhuh
+路	luh
+妒	duh
+菟	tuh
+顧	cuh
+誤	quh
+護	huh
+訴	suh
+祚	dzuh
+笯	nuh
+布	buh
+汙	uh
+怖	puh
+厝	tsuh
+絝	kuh
+捕	bhuh
+謼	xuh
+作	zuh
+霽	zey
+帝	dey
+嚌	dzey
+替	tey
+第	dhey
+砌	tsey
+細	sey
+詣	qey
+計	cey
+蒵	hey
+契	key
+翳	ey
+謎	mey
+閉	bey
+慧	huey
+桂	cuey
+嘒	xuey
+媲	pey
+薜	bhey
+麗	ley
+泥	ney
+㰥	xey
+祭	zey
+歲	suey
+衛	wey
+芮	ruey
+贅	juey
+𠻜	sruey
+毳	tsuey
+銳	wey
+綴	dyuey
+稅	shuey
+弊	bhey
+㯔	truey
+篲	szuey
+蔽	bey
+劌	cuey
+袂	mey
+㡜	srey
+掣	chey
+制	jey
+逝	zhey
+曳	ey
+䋵	ey
+藝	qey
+滯	dhyey
+例	ley
+憩	key
+世	shey
+猘	cey
+㿃	dyey
+偈	gey
+啜	zhuey
+跇	tyey
+𨧨	dhyuey
+㓷	qey
+蕝	zuey
+潎	pey
+𥏙	kuey
+䂕	xuey
+泰	tay
+蓋	cay
+艾	qay
+藹	ay
+柰	nay
+大	dhay
+害	hay
+帶	day
+貝	buy
+霈	puy
+會	huy
+兌	dhuy
+儈	cuy
+最	zuy
+𧬨	xuy
+𥢶	kuy
+酹	luy
+外	quy
+祋	duy
+懀	uy
+蕞	dzuy
+𥕸	suy
+襊	tsuy
+旆	bhuy
+磕	kay
+蔡	tsay
+賴	lay
+餀	xay
+娧	tuy
+眜	muy
+卦	cuay
+懈	ceay
+隘	eay
+邂	heay
+賣	may
+畫	huay
+差	tray
+睚	qeay
+謑	xeay
+𢈕	bay
+粺	bhay
+㾹	jray
+派	pay
+債	dray
+𡢖	keay
+曬	sray
+諣	xuay
+膪	dyay
+怪	cuay
+噫	eay
+瘵	dray
+誡	ceay
+褹	nay
+譮	xeay
+械	heay
+𦗐	qeay
+蒯	kuay
+𢷎	bay
+湃	pay
+壞	huay
+聵	quay
+𢞎	bhay
+䀛	may
+𧱳	xuay
+鎩	sray
+烗	keay
+顡	dyuay
+夬	cuay
+快	kuay
+邁	may
+話	huay
+敗	bhay
+䵳	uay
+嘬	truey
+犗	cay
+蠆	tyay
+喝	ay
+𠱡	sray
+𦤧	dhyay
+䜕	xay
+咶	xuay
+敗	bay
+寨	jray
+㕢	hay
+隊	dhuey
+佩	bhuey
+妹	muey
+配	puey
+誨	xuey
+對	duey
+倅	tsuey
+晬	zuey
+𩲄	uey
+退	tuey
+憒	cuey
+潰	huey
+塊	kuey
+碎	suey
+內	nuey
+纇	luey
+背	buey
+磑	quey
+代	dhay
+載	zay
+賽	say
+貸	tay
+溉	cay
+慨	kay
+礙	qay
+愛	ay
+瀣	hay
+耐	nay
+戴	day
+賚	lay
+菜	tsay
+載	dzay
+儗	xay
+廢	fey
+肺	fey
+穢	uey
+吠	fvey
+𤜂	guey
+刈	qey
+震	jenn
+信	sinn
+刃	renn
+胤	yinn
+遴	linn
+儐	binn
+敶	dhyenn
+慎	zhenn
+眒	shenn
+菣	kinn
+賮	szinn
+憖	qinn
+晉	zinn
+衅	xinn
+鎮	dyenn
+僅	ginn
+櫬	trenn
+印	inn
+疢	tyenn
+𣎳	pinn
+親	tsinn
+呁	ciunn
+稕	junn
+𡺲	siunn
+殉	sziunn
+儁	ziunn
+舜	shunn
+閏	runn
+順	djunn
+問	venn
+運	yunn
+訓	xiunn
+湓	fenn
+糞	fenn
+醞	iunn
+攈	ciunn
+郡	giunn
+分	fvenn
+焮	xinn
+靳	cinn
+近	ginn
+㒚	inn
+垽	qinn
+願	qiuann
+怨	iuann
+販	fann
+券	kiuann
+万	vann
+飯	fvann
+嬎	fann
+建	cienn
+堰	ienn
+獻	xienn
+楥	xiuann
+健	gienn
+𣀔	truann
+遠	yuann
+𤬝	qienn
+圈	giuann
+卛	ciuann
+慁	hunn
+頓	dunn
+巽	sunn
+困	kunn
+嫩	nunn
+搵	unn
+悶	menn
+鐏	dzunn
+睔	cunn
+噴	penn
+鈍	dhunn
+寸	tsunn
+坌	bhenn
+顐	qunn
+論	lunn
+奔	benn
+惛	xunn
+焌	zunn
+恨	henn
+艮	cenn
+䭓	qenn
+䭡	enn
+翰	honn
+炭	tann
+按	onn
+旦	dann
+憚	dhann
+旰	conn
+岸	qonn
+侃	konn
+漢	xonn
+爛	lann
+攤	nann
+粲	tsann
+繖	sann
+贊	zann
+㜺	dzann
+換	huonn
+䂎	zonn
+惋	uonn
+貫	cuonn
+竄	tsonn
+玩	quonn
+段	dhonn
+亂	lonn
+鍛	donn
+彖	tonn
+喚	xuonn
+筭	sonn
+縵	monn
+半	bonn
+判	ponn
+叛	bhonn
+偄	nonn
+攢	dzonn
+䥗	kuonn
+諫	ceann
+鴈	qeann
+晏	eann
+訕	srann
+骭	heann
+慢	mann
+綰	uann
+患	huann
+慣	cuann
+㝈	sruann
+篡	truann
+薍	quann
+輚	jrann
+襻	pann
+奻	nuann
+鏟	trann
+㬄	tyann
+襇	ceann
+莧	heann
+瓣	bhann
+盼	pann
+幻	huann
+蔄	mann
+袒	dhyann
+扮	bann
+鰥	cuann
+霰	sienn
+蒨	tsienn
+絢	xiuann
+縣	hiuann
+睊	ciuann
+電	dhienn
+瑱	tienn
+練	lienn
+見	cienn
+晛	nienn
+俔	kienn
+見	hienn
+硯	qienn
+宴	ienn
+薦	zienn
+麪	mienn
+片	pienn
+荐	dzienn
+䬼	iuann
+殿	dienn
+𩎌	xienn
+線	sienn
+戰	jann
+繕	zhann
+彥	qienn
+譴	kienn
+絹	ciuann
+瑗	yuann
+面	mienn
+釧	chuann
+掾	yuann
+𩥇	dyann
+𤲬	ruann
+箭	zienn
+硟	chann
+扇	shann
+躽	ienn
+眷	ciuann
+倦	giuann
+戀	liuann
+猭	tyuann
+變	bienn
+𨏉	sruann
+縓	tsiuann
+卞	bhienn
+㳬	sziuann
+選	siuann
+䉵	jruann
+孨	druann
+傳	dhyuann
+賤	dzienn
+羨	szienn
+騗	pienn
+𢮨	zhuann
+輾	nienn
+囀	dyuann
+衍	yenn
+便	bhienn
+邅	dhyann
+𤹨	lienn
+䄐	kiuann
+剸	juann
+徧	bienn
+嘯	siaw
+糶	tiaw
+弔	diaw
+叫	ciaw
+尿	niaw
+藋	dhiaw
+竅	kiaw
+𩕐	liaw
+顤	qiaw
+窔	iaw
+㱇	xiaw
+笑	siaw
+照	jaw
+燿	yaw
+要	iaw
+召	dhyaw
+邵	zhaw
+嶠	giaw
+剽	piaw
+噍	dziaw
+妙	miaw
+陗	tsiaw
+尞	liaw
+趬	kiaw
+𧇠	qiaw
+醮	ziaw
+廟	miaw
+驃	bhiaw
+少	shaw
+脁	tyaw
+裱	biaw
+翹	giaw
+饒	raw
+效	heaw
+教	ceaw
+孝	xeaw
+罩	dyaw
+豹	baw
+敲	keaw
+皃	maw
+奅	paw
+趠	tyaw
+稍	sraw
+棹	dhyaw
+橈	naw
+抓	draw
+靤	bhaw
+抄	traw
+靿	eaw
+樂	qeaw
+巢	jraw
+号	haw
+導	dhaw
+到	daw
+誥	caw
+傲	qaw
+冃	maw
+嫪	law
+操	tsaw
+暴	bhaw
+報	baw
+漕	dzaw
+奧	aw
+喿	saw
+𩝝	kaw
+竈	zaw
+秏	xaw
+腝	naw
+箇	coh
+賀	hoh
+佐	zoh
+跢	doh
+邏	loh
+坷	koh
+餓	qoh
+馱	dhoh
+奈	noh
+些	soh
+呵	xoh
+拖	toh
+過	cuoh
+和	huoh
+挫	zoh
+課	koh
+唾	toh
+播	boh
+剉	tsoh
+磨	moh
+愞	noh
+破	poh
+座	dzoh
+臥	quoh
+諎	tsoh
+貨	xuoh
+惰	dhoh
+縛	bhoh
+䇔	loh
+𣑫	doh
+䐝	soh
+侉	oh
+涴	uoh
+禡	mah
+駕	ceah
+亞	eah
+嚇	xeah
+迓	qeah
+詫	tyah
+吒	dyah
+詐	drah
+乍	jrah
+謝	szieh
+髂	keah
+暇	heah
+褯	dzieh
+夜	yeh
+䞣	cheh
+蝑	sieh
+柘	jeh
+唶	zieh
+舍	sheh
+射	djeh
+霸	bah
+帊	pah
+摦	huah
+化	xuah
+跨	kuah
+誜	sruah
+𤝡	bhah
+䏧	nah
+笡	tsieh
+嗄	srah
+坬	cuah
+䖳	dhyah
+瓦	quah
+攨	uah
+漾	yaq
+亮	liaq
+狀	jraq
+讓	raq
+餉	shaq
+帳	dyaq
+悵	tyaq
+向	xiaq
+仗	dhyaq
+釀	niaq
+匠	dziaq
+障	jaq
+尚	zhaq
+壯	draq
+怏	iaq
+弶	giaq
+唱	chaq
+刱	traq
+醬	ziaq
+𨋕	qiaq
+訪	faq
+妄	vaq
+況	xuaq
+誑	cuaq
+迋	waq
+放	faq
+相	siaq
+殭	ciaq
+唴	kiaq
+蹡	tsiaq
+狂	guaq
+防	fvaq
+宕	dhaq
+浪	laq
+吭	haq
+盎	aq
+枊	qaq
+葬	zaq
+傍	bhaq
+藏	dzaq
+譡	daq
+抗	kaq
+螃	baq
+儻	taq
+曠	kuaq
+儾	naq
+喪	saq
+攩	huaq
+桄	cuaq
+鋼	caq
+荒	xuaq
+漭	maq
+汪	uaq
+映	ieq
+敬	cieq
+競	gieq
+慶	kieq
+更	caeq
+命	mieq
+病	bhieq
+孟	maeq
+蝗	huaeq
+柄	bieq
+詠	yueq
+行	haeq
+瀴	aeq
+㵾	traeq
+倀	dyaeq
+牚	tyaeq
+榜	baeq
+鋥	dhyaeq
+生	sraeq
+迎	qieq
+膨	bhaeq
+䛭	xaeq
+𥥈	uaeq
+諍	draeq
+迸	baeq
+𠊧	bhaeq
+䙬	aeq
+鞕	qaeq
+轟	xuaeq
+勁	cieq
+倩	tsieq
+政	jaeq
+聖	shaeq
+鄭	dhyaeq
+遉	tyaeq
+性	sieq
+令	lieq
+聘	pieq
+敻	xiueq
+摒	bieq
+偋	bhieq
+淨	dzieq
+盛	zhaeq
+詺	mieq
+輕	kieq
+𣢝	xieq
+精	zieq
+徑	cieq
+甯	nieq
+腥	sieq
+脛	hieq
+定	dhieq
+矴	dieq
+罄	kieq
+聽	tieq
+靘	tsieq
+䒌	mieq
+鎣	ieq
+零	lieq
+證	jeq
+孕	yiq
+乘	djeq
+認	req
+應	iq
+甑	ziq
+興	xiq
+勝	sheq
+瞪	dhyeq
+𩜁	liq
+凭	bhiq
+稱	cheq
+凝	qiq
+丞	zheq
+覴	tyeq
+殑	giq
+嶝	deq
+贈	dzeq
+亙	ceq
+蹭	tseq
+鄧	dheq
+懵	meq
+𥦜	beq
+倗	bheq
+踜	leq
+增	zeq
+𡬙	seq
+𤃶	teq
+宥	yew
+救	ciew
+胄	dhyew
+晝	dyew
+狩	shew
+臭	chew
+岫	sziew
+齅	xiew
+呪	jew
+舊	giew
+𤸃	srew
+皺	drew
+副	few
+簉	trew
+富	few
+畜	tyew
+溜	liew
+秀	siew
+僦	ziew
+驟	jrew
+就	dziew
+糅	niew
+復	fvew
+狖	yew
+授	zhew
+輮	rew
+莓	vew
+鼼	qiew
+𪖛	kiew
+䞭	tsiew
+候	hew
+寇	kew
+茂	mew
+仆	pew
+豆	dhew
+鬥	dew
+槈	new
+瘶	sew
+奏	zew
+透	tew
+漚	ew
+遘	cew
+輳	tsew
+陋	lew
+蔻	xew
+䏽	bhew
+偶	qew
+㔌	dzew
+幼	iew
+謬	mew
+䠗	kiew
+𧾻	giew
+沁	tsimm
+浸	zimm
+妊	remm
+鴆	dhyemm
+枕	jemm
+𦧈	gimm
+禁	cimm
+賃	nimm
+蔭	imm
+滲	sremm
+闖	tyemm
+譖	dremm
+讖	tremm
+吟	qimm
+揕	dyemm
+臨	limm
+甚	zhemm
+䫴	yimm
+深	shemm
+勘	komm
+紺	comm
+憾	homm
+暗	omm
+僋	tomm
+俕	somm
+謲	tsomm
+醰	dhomm
+儑	qomm
+馾	domm
+妠	nomm
+顲	lomm
+䫲	xomm
+篸	zomm
+闞	komm
+濫	lamm
+賧	tamm
+𪉦	comm
+𧵊	xomm
+憨	homm
+憺	dhamm
+暫	dzamm
+擔	damm
+三	samm
+豔	yemm
+贍	zhomm
+染	romm
+厭	iemm
+窆	bamm
+驗	qiemm
+閃	shomm
+𡄑	ziemm
+壍	tsiemm
+殮	liemm
+覘	tyomm
+䠨	chomm
+𢜰	iemm
+潛	dziemm
+占	jomm
+㮇	tiemm
+念	niemm
+店	diemm
+䃸	siemm
+磹	dhiemm
+趝	ciemm
+酓	iemm
+僭	ziemm
+䁮	dziemm
+傔	kiemm
+稴	liemm
+釅	qiemm
+脅	xiemm
+㪁	kiemm
+𦲯	vamm
+陷	heamm
+韽	eamm
+蘸	dramm
+𪉜	dyamm
+歉	keamm
+𧸖	dhyamm
+儳	jramm
+𪉦	ceamm
+諵	nomm
+顑	qeamm
+鑑	ceamm
+懺	tramm
+覱	dramm
+釤	sramm
+㒈	xeamm
+埿	bhamm
+㽉	heamm
+鑱	jramm
+𪒠	eamm
+梵	fvamm
+汎	famm
+劒	ciemm
+俺	iemm
+屋	uc
+獨	dhuc
+穀	cuc
+縠	huc
+哭	kuc
+禿	tuc
+豰	duc
+速	suc
+祿	luc
+嗀	xuc
+族	dzuc
+瘯	tsuc
+鏃	zuc
+暴	bhuc
+扑	puc
+卜	buc
+木	muc
+福	fuc
+伏	fvuc
+縮	sruc
+六	liuc
+逐	dhyuc
+菊	ciuc
+麴	kiuc
+熟	zhuc
+俶	chuc
+育	yuc
+驧	giuc
+鼀	tsiuc
+肉	ruc
+粥	juc
+叔	shuc
+蓄	xiuc
+竹	dyuc
+蹙	ziuc
+珿	truc
+朒	niuc
+縬	druc
+蝮	fuc
+郁	iuc
+肅	siuc
+目	vuc
+囿	yuc
+蓄	tyuc
+砡	qiuc
+𣤶	dziuc
+沃	ouc
+毒	dhouc
+篤	douc
+酷	kouc
+鵠	houc
+僕	bhouc
+洬	souc
+梏	couc
+瑁	mouc
+熇	xouc
+褥	nouc
+傶	zouc
+襮	bouc
+濼	louc
+𤛹	qouc
+燭	jouc
+玉	qouc
+旭	xouc
+輂	couc
+局	gouc
+蜀	zhouc
+觸	chouc
+辱	rouc
+束	shouc
+欲	ouc
+躅	dhyouc
+錄	liouc
+曲	kouc
+瘃	dyouc
+足	ziouc
+贖	djouc
+幞	fvouc
+促	tsiouc
+續	sziouc
+粟	siouc
+䪁	fouc
+梀	tyouc
+覺	ceoc
+嶽	qeoc
+浞	jruoc
+捉	druoc
+朔	sruoc
+斲	dyuoc
+剝	boc
+邈	moc
+雹	bhoc
+璞	poc
+㱿	keoc
+濁	dhyuoc
+渥	eoc
+搦	noc
+逴	tyuoc
+犖	loc
+學	heoc
+㕰	xeoc
+娖	truoc
+質	jet
+日	ret
+實	djet
+秩	dhyet
+悉	sit
+一	it
+七	tsit
+匹	pit
+吉	cit
+暱	nit
+逸	yit
+詰	kit
+欯	xit
+抶	tyet
+栗	lit
+窒	dyet
+疾	dzit
+㓼	tret
+失	shet
+堲	zit
+蜜	mit
+必	bit
+姞	git
+邲	bhit
+䫻	yut
+率	srut
+叱	chet
+𪗨	jret
+密	mit
+弼	bhit
+乙	it
+耴	qit
+筆	bit
+茁	dyut
+肸	xit
+暨	cit
+獝	xiut
+術	djut
+橘	ciut
+崒	dziut
+聿	yut
+卒	ziut
+卹	siut
+律	liut
+黜	tyut
+朮	dhyut
+出	chut
+焌	tsiut
+𠭴	drut
+櫛	dret
+瑟	sret
+𪗨	jret
+物	vut
+弗	fut
+鬱	iut
+𠀔	ciut
+屈	kiut
+倔	giut
+佛	fvut
+䬍	xiut
+䬑	yut
+拂	fut
+崛	qiut
+迄	xit
+訖	cit
+疙	qit
+䞘	git
+乞	kit
+月	qiuet
+伐	fvat
+越	yuet
+厥	ciuet
+𡡕	iuet
+𧤼	giuet
+闕	kiuet
+髮	fat
+韤	vat
+䬂	xiuet
+謁	iet
+歇	xiet
+訐	ciet
+𢷒	giet
+㤄	fat
+钀	qiet
+沒	met
+𣅝	tut
+骨	cut
+勃	bhet
+咄	dut
+突	dhut
+𩑦	ut
+忽	xut
+兀	qut
+䪬	pet
+𠀽	lut
+窟	kut
+訥	nut
+窣	sut
+猝	tsut
+捽	dzut
+麧	het
+搰	hut
+卒	zut
+曷	hot
+䫘	xot
+怛	dat
+闥	tat
+遏	ot
+剌	lat
+渴	kot
+達	dhat
+嶻	dzat
+嶭	qot
+葛	cot
+躠	sat
+攃	tsat
+捺	nat
+䔾	ot
+末	mot
+枂	quot
+柮	dzot
+撥	bot
+䰖	zat
+括	cuot
+闊	kuot
+活	huot
+奪	dhot
+豁	xuot
+斡	uot
+繓	zot
+鏺	pot
+侻	tot
+捋	lot
+掇	dot
+撮	tsot
+跋	bhot
+黠	heat
+札	drat
+拔	bhat
+𤫶	keat
+滑	huat
+八	bat
+窡	dyuat
+婠	uat
+豽	nuat
+䶪	trat
+劀	cuat
+戛	ceat
+軋	eat
+殺	srat
+㑻	mat
+傄	xuat
+痆	nat
+𦤙	quat
+䯇	kuat
+汃	pat
+茁	druat
+鎋	heat
+𪆰	eat
+齾	qeat
+刹	trat
+𥴭	keat
+瞎	xeat
+獺	tyat
+刮	cuat
+頢	huat
+䫄	tyuat
+鵽	dyuat
+刷	sruat
+刖	quat
+䵵	truat
+礣	mat
+妠	nuat
+捌	bat
+𪈟	ceat
+𨰉	jrat
+哳	dyat
+𩭿	rat
+屑	siet
+切	tsiet
+結	ciet
+節	ziet
+血	xiuet
+闋	kiuet
+玦	ciuet
+穴	hiuet
+抉	iuet
+姪	dhiet
+鐵	tiet
+纈	hiet
+涅	niet
+截	dziet
+齧	qiet
+蔑	miet
+㢼	biet
+噎	iet
+猰	kiet
+㚛	xiet
+撆	piet
+蹩	bhiet
+窒	diet
+𥸸	liet
+薛	siet
+列	liet
+哲	dyet
+傑	giet
+熱	ret
+晢	jet
+舌	djet
+折	zhet
+孼	qiet
+滅	miet
+朅	kiet
+鷩	biet
+絕	dziuet
+蕝	ziuet
+雪	siuet
+𤿫	tyot
+悅	yuet
+缺	kiuet
+噦	iuet
+爇	rot
+說	shot
+拙	jot
+歠	chot
+輟	dyot
+劣	liuet
+瞥	piet
+別	bhiet
+轍	dhyet
+䇷	biet
+㕞	srot
+孑	ciet
+設	shet
+吶	niuet
+𥄎	xiuet
+妜	iuet
+蹶	ciuet
+茁	drot
+膬	tsiuet
+𧕾	ziet
+榝	sret
+焆	iet
+屮	tyet
+娎	xiet
+啜	zhot
+㔍	trot
+㿱	sziuet
+掣	chet
+抴	yet
+𨵊	jret
+藥	yoc
+略	lioc
+腳	cioc
+灼	joc
+爍	shoc
+若	roc
+綽	choc
+約	ioc
+卻	kioc
+虐	qioc
+妁	zhoc
+㲋	tyoc
+削	sioc
+斮	droc
+爵	zioc
+皭	dzioc
+鵲	tsioc
+噱	gioc
+嬳	uac
+縛	fvoc
+䂄	xuac
+籰	wac
+玃	cuac
+芍	dyoc
+著	dhyoc
+躩	kuac
+戄	guac
+逽	nioc
+𩅿	foc
+謔	xioc
+鐸	dhoc
+莫	moc
+落	loc
+託	toc
+作	zoc
+錯	tsoc
+各	coc
+恪	koc
+咢	qoc
+𩔈	poc
+惡	oc
+泊	bhoc
+𦞦	xoc
+索	soc
+涸	hoc
+昨	dzoc
+博	boc
+諾	noc
+霍	xuoc
+郭	cuoc
+雘	uoc
+穫	huoc
+廓	kuoc
+瓁	quoc
+硦	luoc
+㘀	zuoc
+陌	maec
+磔	dyaec
+白	bhaec
+伯	baec
+劇	giec
+戟	ciec
+𡩡	sriec
+柵	triec
+嚄	huaec
+嘖	draec
+齚	jraec
+隙	kiec
+額	qaec
+逆	qiec
+客	kaec
+啞	aec
+虩	xiec
+坼	tyaec
+拍	paec
+赫	xaec
+垎	haec
+格	caec
+謋	xuaec
+宅	dhyaec
+虢	cuaec
+擭	uaec
+蹃	naec
+𧍕	kuaec
+欂	bhiec
+麥	maec
+獲	huaec
+蟈	cuaec
+檗	baec
+䌟	bhaec
+賾	jraec
+責	draec
+䞰	jruaec
+策	traec
+礊	kaec
+剨	xuaec
+覈	haec
+隔	caec
+摘	dyaec
+戹	aec
+栜	sraec
+𢶉	paec
+虉	qaec
+礐	laec
+㩇	druaec
+𢷾	sruaec
+𧾛	guaec
+疒	naec
+昔	siec
+積	ziec
+益	iec
+繹	yec
+釋	shiec
+尺	chiec
+石	zhiec
+隻	jiec
+擲	dhyiec
+皵	tsiec
+席	sziec
+籍	dziec
+擗	bhiec
+役	yuec
+瞁	xiuec
+辟	biec
+僻	piec
+麝	djiec
+碧	biec
+𪐏	dyiec
+彳	tyiec
+𦳮	juaec
+𥄎	tsiuec
+錫	siec
+激	ciec
+霹	piec
+靂	liec
+的	diec
+檄	hiec
+鷁	qiec
+荻	dhiec
+逖	tiec
+績	ziec
+燩	kiec
+惄	niec
+寂	dziec
+覓	miec
+甓	bhiec
+壁	biec
+闃	kiuec
+郹	ciuec
+戚	tsiec
+赥	xiec
+𥍟	xiuec
+職	jic
+直	dhyec
+力	lic
+敕	tyec
+陟	dyec
+食	djic
+息	sic
+寔	zhic
+識	shic
+赩	xic
+崱	jrec
+極	gic
+匿	nic
+測	trec
+憶	ic
+色	srec
+䩯	kic
+殛	cic
+弋	yic
+即	zic
+逼	bic
+域	yuic
+洫	xiuic
+堛	pic
+稄	drec
+愎	bhic
+嶷	qic
+堲	dzic
+䁇	mic
+瀷	chic
+德	dec
+則	zec
+勒	lec
+忒	tec
+刻	kec
+特	dhec
+黑	xec
+墨	mec
+賊	dzec
+塞	sec
+北	bec
+菔	bhec
+或	huec
+國	cuec
+餩	ec
+劾	hec
+䘅	nec
+裓	cec
+墄	tsec
+覆	pec
+𢃤	xuec
+緝	tsip
+十	zhep
+執	jep
+習	szip
+集	dzip
+入	rep
+揖	ip
+溼	shep
+㗱	zip
+及	gip
+蟄	dhyep
+縶	dyep
+立	lip
+急	cip
+岌	qip
+泣	kip
+𩎕	sip
+歰	srep
+吸	xip
+戢	drep
+邑	ip
+湁	tyep
+煜	yip
+熠	yip
+孨	nip
+霵	jrep
+𪀐	bhip
+鵖	bip
+㞚	trep
+卙	chep
+合	hop
+閤	cop
+答	dap
+趿	sap
+沓	dhap
+錔	tap
+雜	dzap
+帀	zap
+拉	lap
+納	nap
+溘	kop
+姶	op
+欱	xop
+𣊡	qop
+䟃	tsap
+盍	hop
+臘	lap
+㿴	dap
+榻	tap
+𣣹	xop
+魶	nap
+蹋	dhap
+𠎷	sap
+儑	qop
+䪞	dzap
+䫦	cop
+榼	kop
+鰪	op
+囃	tsap
+譫	jep
+葉	yep
+接	ziep
+攝	shep
+涉	zhep
+獵	liep
+捷	dziep
+䐑	dhyep
+㪑	iep
+聶	niep
+謵	chep
+讘	rep
+讋	jep
+妾	tsiep
+鍤	tyep
+衱	giep
+輒	dyep
+曄	yep
+𤷾	kiep
+萐	srep
+𦀖	ciep
+魘	iep
+怗	tiep
+協	hiep
+頰	ciep
+愜	kiep
+牒	dhiep
+苶	niep
+燮	siep
+㼲	liep
+聑	diep
+䕹	dziep
+浹	ziep
+弽	xiep
+洽	heap
+恰	keap
+箑	jrap
+夾	ceap
+眨	drap
+插	trap
+㘝	nop
+䶎	xeap
+霎	srap
+劄	dyap
+𨂁	eap
+䀴	qeap
+𥃐	tyap
+狎	heap
+𠗨	dhyap
+鴨	eap
+甲	ceap
+翣	srap
+呷	xeap
+業	qiep
+脅	xiep
+怯	kiep
+劫	ciep
+腌	iep
+殜	yep
+跲	giep
+乏	fvap
+法	fap
+𥎰	fap
+䎎	niep
+𦑣	tyep
 
-# auto converted from poly's
+
+# poly
 吖	ea	
 #阿	o	
 #啊	o	
@@ -1713,10 +5587,10 @@ use_preset_vocabulary: true
 辯	bhieen	
 變	bienn	
 髟	biau	
-髟	bieu	
+髟	beu	
 髟	sram	
-彪	bieu	
-淲	bhieu	
+彪	beu	
+淲	bheu	
 𦳤	bhiao	
 猋	biau	
 摽	bhiao	
@@ -1745,7 +5619,7 @@ use_preset_vocabulary: true
 𤐫	piau	
 𤐫	piau	
 𣄠	biau	
-瀌	bhieu	
+瀌	bheu	
 瀌	biau	
 贆	biau	
 爂	biau	
@@ -1760,7 +5634,7 @@ use_preset_vocabulary: true
 䮽	luc	
 𩽁	biau	
 驫	biau	
-驫	bieu	
+驫	beu	
 
 表	biao	
 𧘝	biao	
@@ -2299,7 +6173,7 @@ use_preset_vocabulary: true
 墄	tsec	
 㥽	traec	
 䔴	trec	
-䜺	trec	
+䜺	triec	
 憡	traec	
 𦔎	trec	
 𥲅	dhyeu	
@@ -2836,7 +6710,7 @@ use_preset_vocabulary: true
 霃	dhyem	
 諶	zhem	
 麎	zhen	
-䢈	huay	
+䢈	huy	
 鷐	zhen	
 墋	treem	
 磣	treem	
@@ -2844,7 +6718,7 @@ use_preset_vocabulary: true
 䫖	tyeem	
 疢	tyenn	
 趁	dhyen	
-趁	neen	
+趁	nieen	
 趁	tyenn	
 
 齔	trenn	
@@ -2950,8 +6824,8 @@ use_preset_vocabulary: true
 妛	chi	
 侙	tyec	
 𨒬	chi	
-哧	chec	
-哧	shec	
+哧	chiec	
+哧	shiec	
 蚩	chi	
 𦐉	chi	
 眵	chi	
@@ -2959,7 +6833,7 @@ use_preset_vocabulary: true
 笞	tyi	
 瓻	tyi	
 𤭏	giec	
-𤭏	tyec	
+𤭏	tyiec	
 喫	kiec	
 摛	tyi	
 嗤	chi	
@@ -3016,8 +6890,8 @@ use_preset_vocabulary: true
 謘	dhyih	
 䶔	dhyi	
 䶵	dhyi	
-尺	chec	
-呎	chec	
+尺	chiec	
+呎	chiec	
 肔	yii	
 侈	chii	
 卶	chih	
@@ -3027,7 +6901,7 @@ use_preset_vocabulary: true
 㢁	chii	
 恥	tyii	
 𢻃	zhih	
-蚇	chec	
+蚇	chiec	
 㶴	chii	
 𧰲	chii	
 豉	zhih	
@@ -3048,29 +6922,29 @@ use_preset_vocabulary: true
 𡳭	tyih	
 𡳭	tyii	
 𧖛	tyii	
-彳	tyec	
+彳	tyiec	
 𠮟	chet	
 叱	chet	
 斥	cheh	
-斥	chec	
-赤	chec	
-𠧚	chec	
+斥	chiec	
+赤	chiec	
+𠧚	chiec	
 杘	tyih	
 抶	tyet	
 迣	jey	
 勅	tyec	
 㽚	tyec	
-㡿	chec	
+㡿	chiec	
 恜	tyec	
 𣐉	tyih	
 翅	shih	
-𠧵	chec	
+𠧵	chiec	
 翄	gi	
 翄	shih	
 𦐊	shih	
 敕	tyec	
 痓	chih	
-烾	chec	
+烾	chiec	
 䀸	jey	
 䀸	tyey	
 䀿	jet	
@@ -3194,7 +7068,7 @@ use_preset_vocabulary: true
 㨨	tyeu	
 搊	treu	
 搊	dreo	
-搊	dru	
+搊	dreu	
 㮲	treu	
 醔	treu	
 篘	treu	
@@ -3464,7 +7338,7 @@ use_preset_vocabulary: true
 闖	tyemm	
 刱	traq	
 剏	traq	
-創	trang	20%	
+創	trang	
 創	traq	
 愴	traq	
 愴	trag	
@@ -3857,15 +7731,15 @@ use_preset_vocabulary: true
 竁	chuann	
 竁	truey	
 竁	tsuey	
-𥨒	tsuay	
+𥨒	tsuy	
 𣃍	truey	
 𣃍	tsuey	
-𦦣	tsuay	
+𦦣	tsuy	
 臎	tsuy	
 臎	zue	
 𧑎	tsuey	
 𧑎	zuey	
-𨅎	tsuay	
+𨅎	tsuy	
 䆊	dzuy	
 邨	dhun	
 村	tsun	
@@ -3896,7 +7770,7 @@ use_preset_vocabulary: true
 𥰭	dzo	
 醝	dzo	
 蹉	tso	
-襊	tsuay	
+襊	tsuy	
 襊	tsot	
 髊	dzih	
 㭫	dzo	
@@ -4006,9 +7880,9 @@ use_preset_vocabulary: true
 龖	dhap	
 打	dieg	5%
 
-大	dhah	
+大	dhay	
 大	dhoh	5%
-汏	dhah	
+汏	dhay	
 汏	tat	
 眔	dhap	
 𥄳	dhap	
@@ -4022,7 +7896,7 @@ use_preset_vocabulary: true
 逮	dhay	
 逮	dhey	
 傣	dae	
-㐲	dhah	
+㐲	dhay	
 代	dhay	
 甙	dhay	
 𤮼	dhay	
@@ -4033,11 +7907,11 @@ use_preset_vocabulary: true
 殆	dhae	
 待	dhae	
 怠	dhae	
-軑	dhah	
+軑	dhay	
 軑	dhey	
 埭	dhay	
 𡍖	dhay	
-帶	dah	
+帶	day	
 𧊇	tec	
 袋	dhay	
 紿	dhae	
@@ -4046,18 +7920,18 @@ use_preset_vocabulary: true
 貸	tay	
 瑇	dhay	
 瑇	dhouc	
-𢄔	dah	
-䲦	dhah	
-㯂	dah	
+𢄔	day	
+䲦	dhay	
+㯂	day	
 曃	tay	
-𪐝	dhah	
+𪐝	dhay	
 鴏	dhec	
 戴	day	
 黛	dhay	
-艜	dah	
+艜	day	
 𨽿	dhae	
 蹛	dhyey	
-蹛	dah	
+蹛	day	
 黱	dhay	
 靆	dhay	
 亻	ren	
@@ -4436,7 +8310,7 @@ use_preset_vocabulary: true
 第	dhey	
 偙	dey	
 𦨢	dey	
-釱	dhah	
+釱	dhay	
 釱	dhey	
 啇	diec	
 𢰂	dhey	
@@ -4460,7 +8334,7 @@ use_preset_vocabulary: true
 禘	dhey	
 摕	dhey	
 摕	dhiet	
-摕	dah	
+摕	day	
 摕	dey	
 䩚	dey	
 蔕	dey	
@@ -5004,19 +8878,19 @@ use_preset_vocabulary: true
 𡑈	duee	
 頧	duei	
 頧	duee	
-兊	dhuay	
-兌	dhuay	
-祋	duay	
+兊	dhuy	
+兌	dhuy	
+祋	duy	
 祋	dot	
-㟋	dhuay	
+㟋	dhuy	
 陮	dhuee	
 隊	dhuey	
 𦶏	dhuee	
 碓	duey	
 䇏	duee	
-綐	dhuay	
+綐	dhuy	
 對	duey	
-𩊭	dhuay	
+𩊭	dhuy	
 𡭊	duey	
 𠏮	duey	
 憝	dhuey	
@@ -5144,7 +9018,7 @@ use_preset_vocabulary: true
 媠	dhoh	
 媠	too	
 跺	doh	
-跢	dah	
+跢	day	
 跢	doh	
 䅜	dhoo	
 䅜	zhuy	
@@ -5916,13 +9790,13 @@ use_preset_vocabulary: true
 䱐	fveu	
 䱐	fu	
 𣞒	fu	
-𡫽	riu	
-𡫽	riuu	
+𡫽	ru	
+𡫽	ruu	
 𡫽	iuh	
 乀	fut	
 巿	fut	
 𠬝	ziet	
-𠬝	neen	
+𠬝	nieen	
 弗	fut	
 𠬨	ziet	
 伏	fvew	2%
@@ -6396,7 +10270,7 @@ use_preset_vocabulary: true
 臯	cau	
 䔌	cau	
 睪	yec	
-睪	nep	
+睪	niep	
 㟸	cau	
 槔	cau	
 𨝲	cau	
@@ -6420,7 +10294,7 @@ use_preset_vocabulary: true
 夰	hao	
 夰	cao	
 杲	cao	
-㚖	chec	
+㚖	chiec	
 㚖	cao	
 菒	cao	
 搞	ceao	
@@ -6745,7 +10619,7 @@ use_preset_vocabulary: true
 姑	cu	
 柧	cu	
 㼋	cu	
-㼋	riuu	
+㼋	ruu	
 唂	cuc	
 罛	cu	
 菰	cu	
@@ -6919,7 +10793,7 @@ use_preset_vocabulary: true
 恠	cuay	
 𥑋	cuay	
 𡌪	cuay	
-𢶒	cuey	
+𢶒	cuy	
 噲	kuay	
 官	cuon	
 倌	cuann	
@@ -7145,21 +11019,21 @@ use_preset_vocabulary: true
 跪	gue	
 跪	kue	20%
 溎	ienn	
-䐴	cuey	
+䐴	cuy	
 䐴	cuey	
 䁛	cuy	
 劌	cuey	
 䈐	cuey	
-劊	cuey	
+劊	cuy	
 劊	cuot	
 䳏	cuey	
 瞶	wuy	
 瞶	cuy	
 簂	cuey	
-禬	huay	
-禬	cuey	
+禬	huy	
+禬	cuy	
 櫃	guy	
-襘	cuey	
+襘	cuy	
 䞈	cuy	
 𠐽	gui	
 𠐽	cuy	
@@ -7200,7 +11074,7 @@ use_preset_vocabulary: true
 謴	cunn	
 𧬪	cunn	
 郭	cuoc	
-㽿	kuo	
+㽿	ko	
 㽿	cuo	
 崞	cuoc	
 聒	cuot	
@@ -7524,9 +11398,9 @@ use_preset_vocabulary: true
 好	xaw	30%
 好	xao	
 𡥆	xaw	
-郝	chec	1%
+郝	chiec	1%
 郝	xoc	
-郝	shec	1%
+郝	shiec	1%
 号	haw	
 𡚽	xaw	
 𡚽	xao	
@@ -8135,7 +12009,7 @@ use_preset_vocabulary: true
 𩲏	xuah	
 𩵏	xuah	
 觟	huaa	
-話	huah	
+話	huay	
 嬅	huah	
 摦	huah	
 𦖍	huaa	
@@ -8180,7 +12054,7 @@ use_preset_vocabulary: true
 𪊉	uai	
 坏	puei	
 咶	huat	
-咶	xuah	
+咶	xuay	
 咶	xuay	
 𣸎	xuay	
 𡎯	huay	
@@ -8275,7 +12149,7 @@ use_preset_vocabulary: true
 換	huonn	
 喚	xuonn	
 嵈	huoon	
-渙	xuay	
+渙	xuy	
 渙	xuonn	
 豢	huann	
 煥	xuonn	
@@ -8470,8 +12344,8 @@ use_preset_vocabulary: true
 匯	huee	
 匯	kuai	2%
 賄	xuee	
-會	huay	
-會	cuey	2%
+會	huy	
+會	cuy	2%
 䛛	huey	
 詯	huey	
 詯	xuey	
@@ -8499,32 +12373,32 @@ use_preset_vocabulary: true
 潓	huey	
 憓	huey	
 薉	uey	
-薈	uay	
+薈	uy	
 橞	huey	
 殨	huey	
-噦	xuay	
+噦	xuy	
 噦	iuet	
 噦	iuet	
 獩	uey	
 諱	xuy	
-澮	cuey	
-嬒	uay	
+澮	cuy	
+嬒	uy	
 嬒	uot	
 璯	kuay	
-檜	huay	
-檜	cuey	
+檜	huy	
+檜	cuy	
 檜	cuot	
 篲	szuey	
 𥱵	szip	
 𥱵	szuey	
 餯	xuey	
-燴	huay	
+燴	huy	
 𨘇	hienn	
-𨘇	huay	
+𨘇	huy	
 㩨	huey	
 𩔁	xuey	
 嚖	xuey	
-瞺	uay	
+瞺	uy	
 蟪	huey	
 𢅫	szuey	
 穢	uey	
@@ -8532,20 +12406,20 @@ use_preset_vocabulary: true
 𦒎	ey	
 繢	huey	
 櫘	suey	
-翽	xuay	
+翽	xuy	
 譓	huey	
 䜋	huey	
 䜋	huee	
 𤃴	xuot	
-繪	huay	
+繪	huy	
 闠	huey	
 儶	huey	
 鏸	huey	
-𧬨	xuay	
+𧬨	xuy	
 譮	xeay	
 𦆠	guy	
 靧	xuey	
-鐬	xuay	
+鐬	xuy	
 韢	tsuey	
 孈	huay	
 孈	xuy	
@@ -8673,7 +12547,7 @@ use_preset_vocabulary: true
 雘	uoc	
 謋	xuaec	
 𤐰	huoc	
-䨥	jec	
+䨥	jiec	
 䨥	huoc	
 矆	xuac	
 穫	huoc	
@@ -8706,7 +12580,7 @@ use_preset_vocabulary: true
 刏	cuey	
 肌	ci	
 枅	cei	
-𨒪	ziec	
+??	ziec	
 咭	xit	
 咭	keat	
 剞	cii	
@@ -8899,7 +12773,7 @@ use_preset_vocabulary: true
 䩯	kic	
 𥊬	drep	
 蹐	ziec	
-簎	trec	
+簎	triec	
 簎	dziec	
 簎	jruoc	
 𧪠	dzit	
@@ -10973,50 +14847,50 @@ use_preset_vocabulary: true
 珂	ko	
 柯	co	
 㸰	dho	
-㸰	kuo	
-科	kuo	
-科	kuoh	5%
+㸰	ko	
+科	ko	
+科	koh	5%
 牁	co	
 疴	keah	
 疴	o	
 蚵	ho	
 蚵	koh	
-萪	kuo	
+萪	ko	
 棵	huoon	
-棵	kuo	
+棵	ko	
 棵	kuoon	
-棵	kuoo	
+棵	koo	
 軻	ko	
 軻	koh	
 軻	koo	
-嵙	kuo	
+嵙	ko	
 痾	o	
 搕	op	
 嗑	hop	5%
 嗑	cop	
-犐	kuo	
+犐	ko	
 稞	huaa	
-稞	kuo	
-𠏀	kuo	
+稞	ko	
+𠏀	ko	
 鈳	o	
-窠	kuo	
-薖	kuo	
+窠	ko	
+薖	ko	
 榼	kop	
 磕	kay	
 磕	kop	
 磕	kot	
 瞌	kop	
 瞌	kot	
-蝌	kuo	
-䈖	kuo	
+蝌	ko	
+䈖	ko	
 頦	hai	
 頦	cae	
 𩜼	zhih	
 𨍰	kop	
-顆	kuoo	
+顆	koo	
 髁	kuaa	
-髁	kuo	
-髁	kuoh	
+髁	ko	
+髁	koh	
 咳	hai	
 咳	kec	
 揢	kaec	
@@ -11024,9 +14898,9 @@ use_preset_vocabulary: true
 坷	koh	
 坷	koo	
 岢	koo	
-敤	kuoh	
-敤	kuoo	
-㪙	kuoh	
+敤	koh	
+敤	koo	
+㪙	koh	
 嵑	kot	
 渴	giet	
 渴	kot	
@@ -11045,25 +14919,25 @@ use_preset_vocabulary: true
 㤩	koc	
 袔	hoh	
 娔	kec	
-堁	kuoh	
+堁	koh	
 堁	kuey	
-堁	kuoo	
+堁	koo	
 氪	kec	
 䆟	kop	
-𡱼	kuoh	
+𡱼	koh	
 㕎	kop	
 𡞢	kec	
 溘	kay	
 溘	kop	
 愙	koc	
 𣩄	kop	
-課	kuo	
-課	kuoh	
+課	ko	
+課	koh	
 𧛾	kop	
 䙐	kaec	
 緙	kaec	
 錁	cuoo	
-騍	kuoh	
+騍	koh	
 騍	cuoh	
 礊	xuaec	
 礊	kaec	
@@ -11110,7 +14984,7 @@ use_preset_vocabulary: true
 𢃐	kung	
 涳	keang	
 涳	kung	
-涳	nang	
+涳	nong	
 悾	keang	
 悾	kung	
 悾	kuq	
@@ -11246,9 +15120,9 @@ use_preset_vocabulary: true
 𦳋	cuay	
 㨤	kuai	
 蒯	kuay	
-巜	cuey	
+巜	cuy	
 凷	kuay	
-凷	kuey	
+凷	kuy	
 凷	kuey	
 快	kuay	
 𨛖	keay	
@@ -11260,18 +15134,18 @@ use_preset_vocabulary: true
 墤	kuay	
 䈛	kuay	
 䈛	cuay	
-儈	cuey	
-鄶	cuey	
+儈	cuy	
+鄶	cuy	
 獪	cuay	
-獪	cuey	
-廥	cuey	
+獪	cuy	
+廥	cuy	
 𥲖	kuei	
-膾	cuey	
+膾	cuy	
 𥢶	kuay	
-𥢶	kuey	
-旝	cuey	
-䯤	cuey	
-鱠	cuey	
+𥢶	kuy	
+旝	cuy	
+䯤	cuy	
+鱠	cuy	
 寬	kuon	
 髖	kuon	
 髖	kun	
@@ -11506,7 +15380,7 @@ use_preset_vocabulary: true
 筈	kuot	
 筈	cuot	
 䟯	kuot	
-㾧	kuoh	
+㾧	koh	
 廓	kuoc	
 彉	xuoc	
 彉	cuoc	
@@ -11528,7 +15402,7 @@ use_preset_vocabulary: true
 鞹	kuoc	
 𦗾	cuot	
 鬠	huot	
-鬠	cuey	
+鬠	cuy	
 㕇	lap	
 垃	lap	
 拉	lap	
@@ -11601,7 +15475,7 @@ use_preset_vocabulary: true
 鯠	lai	
 𪑚	lai	
 𪎂	lai	
-𨦂	lae	
+??	lae	
 勑	lay	
 䓶	lay	
 䓶	lat	
@@ -11902,14 +15776,14 @@ use_preset_vocabulary: true
 𨓤	tuey	
 累	luy	
 累	lue	
-㲕	luay	
+㲕	luy	
 㲕	liuet	
 淚	luy	
-酹	luay	
+酹	luy	
 酹	luey	
 銇	luey	
 頛	luee	
-頪	luay	
+頪	luy	
 擂	luei	
 擂	luey	
 䢮	dhiec	
@@ -12878,7 +16752,7 @@ use_preset_vocabulary: true
 鷚	gieu	
 鷚	liew	
 鷚	veu	
-鷚	mieu	
+鷚	meu	
 㚅	liung	
 𤵸	pang	
 𧙥	lung	
@@ -12894,7 +16768,7 @@ use_preset_vocabulary: true
 巃	lung	
 巃	lug	
 𡃡	lung	
-瀧	lang	
+瀧	long	
 瀧	lung	
 瀧	sruang	
 瓏	lung	
@@ -12933,7 +16807,7 @@ use_preset_vocabulary: true
 𪔳	liung	
 䪊	lung	
 䮾	bhung	
-䮾	lang	
+䮾	long	
 驡	zag	
 驡	liong	
 鸗	lung	
@@ -13074,7 +16948,7 @@ use_preset_vocabulary: true
 㔪	luu	
 𢲸	luu	
 蓾	luu	
-滷	chec	
+滷	chiec	
 滷	dhiec	
 滷	luu	
 樐	luu	
@@ -13353,7 +17227,7 @@ use_preset_vocabulary: true
 𢺑	loh	
 𨏒	loc	
 𧭥	loc	
-㱻	luay	
+㱻	luy	
 㱻	loh	
 㿚	loh	
 𧟌	loh	
@@ -13508,7 +17382,7 @@ use_preset_vocabulary: true
 䜕	may	
 顢	mon	
 𦣝	yi	
-姏	mam	
+姏	mom	
 悗	mon	
 㒼	mon	
 慲	mon	
@@ -13535,9 +17409,9 @@ use_preset_vocabulary: true
 蠻	man	
 𪈮	man	
 𪈿	men	
-㛧	maam	
+㛧	moom	
 𥇅	maan	
-𩛎	maam	
+𩛎	moom	
 滿	moon	
 蟎	moon	
 𥲈	moon	
@@ -14150,8 +18024,8 @@ use_preset_vocabulary: true
 廟	miaw	
 繆	veu	
 繆	vuc	
-繆	mieu	
-繆	miew	
+繆	meu	
+繆	mew	
 
 咩	mii	
 𡶫	qiet	
@@ -14287,7 +18161,7 @@ use_preset_vocabulary: true
 命	mieq	
 詺	mieq	
 䒌	mieq	
-謬	miew	
+謬	mew	
 摸	moc	
 摸	mu	
 𠻚	mu	
@@ -14400,7 +18274,7 @@ use_preset_vocabulary: true
 眸	veu	
 蛑	veu	
 䋷	veu	
-䋷	mieu	
+䋷	meu	
 謀	veu	
 麰	veu	
 瞴	vu	
@@ -14470,9 +18344,9 @@ use_preset_vocabulary: true
 拿	na	
 𧦮	na	
 𧘽	na	
-蒘	riu	
+蒘	ru	
 蒘	na	
-蒘	nu	
+蒘	niu	
 郍	noh	
 哪	noo	
 𨙻	noo	
@@ -14480,11 +18354,11 @@ use_preset_vocabulary: true
 那	noh	96%
 那	noo	2%
 吶	nap	
-呐	nuet	
+呐	niuet	
 妠	nomm	
 妠	nap	
 妠	nuat	
-肭	nuc	
+肭	niuc	
 肭	nuat	
 肭	nut	
 衲	nap	
@@ -14528,19 +18402,19 @@ use_preset_vocabulary: true
 倷	nae	
 嬭	nee	
 嬭	nae	
-奈	nah	
+奈	nay	
 奈	noh	
-柰	nah	
+柰	nay	
 耐	nay	
-萘	nah	
-渿	nah	
-㲡	nah	
+萘	nay	
+渿	nay	
+㲡	nay	
 鼐	nay	
 鼐	nae	
 𣉘	nay	
 𣉘	nec	
-錼	nah	
-𩹟	nah	
+錼	nay	
+𩹟	nay	
 䘅	nec	
 囡	nom	
 男	nom	
@@ -14576,12 +18450,12 @@ use_preset_vocabulary: true
 㬮	nan	
 𦍀	nann	
 囔	nang	
-𣰊	nang	
-䁸	nang	
-𦗳	nang	
-譨	nang	
+𣰊	nong	
+䁸	nong	
+𦗳	nong	
+譨	nong	
 囊	nang	
-鬞	nang	
+鬞	nong	
 蠰	nang	
 蠰	rag	
 蠰	shaq	
@@ -14601,7 +18475,7 @@ use_preset_vocabulary: true
 峱	nau	
 硇	nau	
 猱	nau	
-猱	new	
+猱	niew	
 詉	na	
 𢜸	nau	
 䛝	nau	
@@ -14780,21 +18654,21 @@ use_preset_vocabulary: true
 𨛲	nieng	
 䊀	hu	
 䬯	niem	
-䬯	nem	
+䬯	niem	
 鮎	niem	
-黏	nem	
+黏	niem	
 鯰	niem	
 㞋	ruaan	
-㞋	neen	
+㞋	nieen	
 捻	niep	
 淰	nieem	
 淰	noom	
 淰	sheem	
-𨋚	neen	
+𨋚	nieen	
 輦	lieen	
 撚	nieen	
-碾	nenn	
-碾	neen	
+碾	nienn	
+碾	nieen	
 㜤	nieem	
 㜤	sheem	
 攆	lieen	
@@ -14809,11 +18683,11 @@ use_preset_vocabulary: true
 唸	dienn	
 𦁇	niemm	
 𦁤	niemm	
-娘	nang	
-𥽬	naq	
-釀	naq	
+娘	niang	
+𥽬	niaq	
+釀	niaq	
 䖆	rag	
-䖆	naq	
+䖆	niaq	
 鳥	diao	
 裊	niao	
 嫋	niao	
@@ -14840,11 +18714,11 @@ use_preset_vocabulary: true
 肀	yut	
 㘝	nop	
 㘝	nip	
-帇	nep	
+帇	niep	
 㘨	niep	
 圼	niet	
 㚔	haeg	
-㚔	nep	
+㚔	niep	
 枿	qot	
 𡴎	qiet	
 𦯖	niet	
@@ -14859,49 +18733,49 @@ use_preset_vocabulary: true
 隉	qiet	
 𡍤	niet	
 𦵐	niet	
-𥬬	nep	
+𥬬	niep	
 敜	niep	
 𤶚	niet	
 湼	niet	
 嵲	qiet	
 𥔄	niet	
-踂	nep	
+踂	niep	
 槷	qiet	
 嶭	qot	
 嶭	qiet	
 篞	niet	
 臲	qiet	
 錜	niep	
-𩣘	nep	
+𩣘	niep	
 𩋏	niep	
-聶	nep	
-䳖	nep	
+聶	niep	
+䳖	niep	
 鎳	qiet	
 孽	qiet	
 㜸	qiet	
 𧞍	nat	
 孼	qiet	
-䌜	nep	
+䌜	niep	
 蘖	qot	
 蘖	qiet	
 籋	niep	
-籋	nep	
+籋	niep	
 櫱	qot	
 櫱	qiet	
 齧	qiet	
 囁	jep	
 囁	rep	
-𣀳	nep	
+𣀳	niep	
 𧕏	qiet	
-𣌍	nep	
-㸎	nep	
+𣌍	niep	
+㸎	niep	
 蠥	qiet	
 糱	qiet	
 𡿖	qiet	
 𡿖	qeat	
-躡	nep	
+躡	niep	
 讘	rep	
-鑷	nep	
+鑷	niep	
 顳	rep	
 䡾	qot	
 䡾	qiet	
@@ -14955,59 +18829,59 @@ use_preset_vocabulary: true
 
 牛	qieu	
 𧄗	dru	
-𨙺	neo	
-扭	neo	
+𨙺	nieo	
+扭	nieo	
 扭	dyeo	
-狃	new	
-狃	neo	
-沑	rieo	
-沑	nuc	
-忸	nuc	
-杻	neo	
+狃	niew	
+狃	nieo	
+沑	reo	
+沑	niuc	
+忸	niuc	
+杻	nieo	
 杻	tyeo	
-䏔	neo	
-䂇	nuc	
-莥	neo	
-紐	neo	
-𦱙	neo	
-鈕	neo	
+䏔	nieo	
+䂇	niuc	
+莥	nieo	
+紐	nieo	
+𦱙	nieo	
+鈕	nieo	
 拗	eao	
-𩚖	new	
+𩚖	niew	
 農	nau	
 農	nong	
 辳	nong	
 儂	nong	
-噥	nang	
+噥	nong	
 噥	nong	
 㺜	nau	
 㺜	nau	
+㺜	niong	
 㺜	nong	
-㺜	nong	
-濃	nong	
+濃	niong	
 憹	nau	
 憹	nong	
-檂	nong	
+檂	niong	
 膿	nong	
 穠	rong	
-穠	nong	
+穠	niong	
 癑	nuq	
 襛	rong	
-襛	nong	
+襛	niong	
 𧗕	nong	
 
-𨑊	nong	
+𨑊	niong	
 𨑊	nug	
-𨲳	nong	
-醲	nong	
+𨲳	niong	
+醲	niong	
 䢉	nong	
 𨑋	nong	
 𩅽	nong	
-𩟊	nang	
+𩟊	nong	
 
 𩟊	nong	
 𤣜	nau	
-𪆯	nang	
-𪒬	nong	
+𪆯	nong	
+𪒬	niong	
 弄	luq	
 挵	luq	
 齈	nuq	
@@ -15053,7 +18927,7 @@ use_preset_vocabulary: true
 煗	noon	
 餪	noon	
 𪋐	nonn	
-𪋯	riu	
+𪋯	ru	
 𪋯	siu	
 虐	qioc	
 瘧	qioc	
@@ -15073,8 +18947,8 @@ use_preset_vocabulary: true
 𢄴	noo	
 𢘎	ruaan	
 𧢺	noc	
-逽	noc	
-喏	riee	
+逽	nioc	
+喏	ree	
 堧	ruan	
 堧	noh	
 搦	naec	
@@ -15083,29 +18957,29 @@ use_preset_vocabulary: true
 稬	nonn	
 稬	noon	
 蹃	naec	
-蹃	noc	
+蹃	nioc	
 𧣺	noc	
 諾	noc	
 鍩	noc	
 䚥	noc	
-懦	riu	
+懦	ru	
 懦	noh	
 穤	noh	
 糯	noh	
-女	riuu	1%
-女	nuh	3%
-女	nuu	
-籹	nuu	
-釹	nuu	
+女	ruu	1%
+女	niuh	3%
+女	niuu	
+籹	niuu	
+釹	niuu	
 恧	nic	
-恧	nuc	
-䖡	nuc	
+恧	niuc	
+䖡	niuc	
 衄	ruc	
-衄	nuc	
+衄	niuc	
 朒	ruc	
-朒	nuc	
-𦗂	nuc	
-𨵫	noc	
+朒	niuc	
+𦗂	niuc	
+𨵫	nioc	
 噢	iuc	
 噢	iuu	
 哦	qo	
@@ -15425,7 +19299,7 @@ use_preset_vocabulary: true
 棚	bhaeng	
 棚	bhaeng	
 𩖛	bhung	
-𩖛	bhieu	
+𩖛	bheu	
 𧚋	bhung	
 搒	bhaeng	
 搒	baq	
@@ -15617,7 +19491,7 @@ use_preset_vocabulary: true
 䤨	piec	
 潎	pey	
 潎	piet	
-𠪮	jec	
+𠪮	jiec	
 僻	piec	
 僻	piec	
 澼	piec	
@@ -17405,12 +21279,12 @@ use_preset_vocabulary: true
 獽	rang	
 瀼	rang	
 孃	rang	
-孃	nang	
+孃	niang	
 禳	rang	
 穰	rang	
 穰	rag	
 瓤	rang	
-瓤	nang	
+瓤	niang	
 䉴	rang	
 躟	rang	
 躟	rag	
@@ -17429,27 +21303,27 @@ use_preset_vocabulary: true
 讓	raq	
 嬈	xiaw	
 嬈	niao	
-嬈	riao	
-橈	riau	
+嬈	rao	
+橈	rau	
 橈	naw	
-襓	riau	
-𤛾	riao	
-饒	riau	
-饒	riaw	
-㹛	riau	
+襓	rau	
+𤛾	rao	
+饒	rau	
+饒	raw	
+㹛	rau	
 犪	gui	
-𧳨	riao	
-擾	riao	
-𢹎	riao	
-遶	riao	
-蟯	riau	
+𧳨	rao	
+擾	rao	
+𢹎	rao	
+遶	rao	
+蟯	rau	
 蟯	iau	
 蟯	iau	
-繞	riaw	
-繞	riao	
-𠰒	riee	
+繞	raw	
+繞	rao	
+𠰒	ree	
 惹	roc	
-惹	riee	
+惹	ree	
 
 熱	ret	
 𩭿	rat	
@@ -17569,7 +21443,7 @@ use_preset_vocabulary: true
 宂	rog	
 𡊫	rog	
 𢫨	rog	
-𢫨	noq	
+𢫨	nioq	
 𤘻	rog	
 𤘺	rog	
 𣭲	rog	
@@ -17580,99 +21454,99 @@ use_preset_vocabulary: true
 氄	rog	
 𪕎	rog	
 𩼅	roq	
-禸	rieo	
-禸	neo	
-𠘯	rieo	
-𠘯	neo	
-柔	rieu	
-𨛶	rieu	
-粈	rieo	
-揉	rieu	
-葇	rieu	
-葇	rieo	
-瑈	rieu	
-䐓	rieu	
-腬	rieu	
-腬	new	
-煣	riew	
-煣	rieo	
-㽥	rieu	
-𥠊	rieo	
-蝚	rieu	
-糅	new	
-輮	riew	
-輮	rieo	
-蹂	rieu	
-蹂	riew	
-蹂	rieo	
-鍒	rieu	
-鞣	rieu	
-鞣	riew	
-䰆	rieu	
-騥	rieu	
-鰇	rieu	
-鶔	rieu	
-𢔟	neo	
-韖	rieo	
+禸	reo	
+禸	nieo	
+𠘯	reo	
+𠘯	nieo	
+柔	reu	
+𨛶	reu	
+粈	reo	
+揉	reu	
+葇	reu	
+葇	reo	
+瑈	reu	
+䐓	reu	
+腬	reu	
+腬	niew	
+煣	rew	
+煣	reo	
+㽥	reu	
+𥠊	reo	
+蝚	reu	
+糅	niew	
+輮	rew	
+輮	reo	
+蹂	reu	
+蹂	rew	
+蹂	reo	
+鍒	reu	
+鞣	reu	
+鞣	rew	
+䰆	reu	
+騥	reu	
+鰇	reu	
+鶔	reu	
+𢔟	nieo	
+韖	reo	
 肉	ruc	
-楺	rieo	
-如	riu	
-如	riuh	
-𨚴	riu	
-茹	riu	
-茹	riuh	
-茹	riuu	
-帤	nu	
+楺	reo	
+如	ru	
+如	ruh	
+𨚴	ru	
+茹	ru	
+茹	ruh	
+茹	ruu	
+帤	niu	
 挐	na	
-挐	nu	
-𣭠	nu	
-袽	nu	
+挐	niu	
+𣭠	niu	
+袽	niu	
 䋈	naa	
-𣖹	nu	
-銣	riu	
-𨾵	riu	
-蕠	riu	
-𡦗	riuh	
-儒	riu	
-薷	riu	
-薷	riuu	
-嚅	riu	
-獳	riu	
+𣖹	niu	
+銣	ru	
+𨾵	ru	
+蕠	ru	
+𡦗	ruh	
+儒	ru	
+薷	ru	
+薷	ruu	
+嚅	ru	
+獳	ru	
 獳	neu	
-濡	riu	
+濡	ru	
 濡	non	
-孺	riuh	
-嬬	riu	
-鴽	riu	
+孺	ruh	
+嬬	ru	
+鴽	ru	
 臑	nau	
-臑	riu	
-襦	riu	
+臑	ru	
+襦	ru	
 蠕	ruaan	
-蠕	riu	
-繻	riu	
+蠕	ru	
+繻	ru	
 繻	siu	
-䞕	riu	
-醹	riu	
-醹	riuu	
-顬	riu	
-䰰	riu	
+䞕	ru	
+醹	ru	
+醹	ruu	
+顬	ru	
+䰰	ru	
 䰰	neu	
-鱬	riu	
-汝	riuu	
-肗	riuu	
-乳	riuu	
+鱬	ru	
+汝	ruu	
+肗	ruu	
+乳	ruu	
 辱	rouc	
 鄏	rouc	
-𪏮	riuu	
+𪏮	ruu	
 擩	rui	
-擩	riuh	
-擩	riuu	
+擩	ruh	
+擩	ruu	
 擩	new	
-𥨲	riu	
+𥨲	ru	
 𪑾	rouc	
 入	rep	
-洳	riu	
-洳	riuh	
+洳	ru	
+洳	ruh	
 㨎	rot	
 蓐	rouc	
 嗕	rouc	
@@ -17682,7 +21556,7 @@ use_preset_vocabulary: true
 褥	rouc	
 褥	nouc	
 縟	rouc	
-㹘	riuh	
+㹘	ruh	
 𩱜	rouc	
 𤲬	ruan	
 𤲬	ruann	
@@ -17707,7 +21581,7 @@ use_preset_vocabulary: true
 㮕	ruaan	
 㼱	ziunn	
 㼱	ruaan	
-㼱	riu	
+㼱	ru	
 腝	naw	
 腝	ruaan	
 腝	nunn	
@@ -17752,7 +21626,7 @@ use_preset_vocabulary: true
 蜹	ruey	
 蜹	rot	
 睿	wey	
-銳	dhuay	
+銳	dhuy	
 銳	wey	
 叡	wey	
 𩀋	run	
@@ -17761,15 +21635,15 @@ use_preset_vocabulary: true
 閠	runn	
 潤	runn	
 叒	roc	
-若	rie	
+若	re	
 若	roc	
-若	riee	
+若	ree	
 鄀	roc	
 
 弱	roc	
 焫	rot	
 
-婼	rie	
+婼	re	
 婼	ri	
 婼	tyoc	
 楉	roc	
@@ -17847,7 +21721,7 @@ use_preset_vocabulary: true
 𥮚	sann	
 犙	som	
 犙	sreu	
-犙	sreu	
+犙	sram	
 毿	som	
 鬖	sam	
 㧲	soom	
@@ -17944,7 +21818,7 @@ use_preset_vocabulary: true
 擌	sraec	
 䨛	sraec	
 㒊	srep	
-𥻨	srec	
+𥻨	sriec	
 濇	srec	
 濇	srep	
 懎	srec	
@@ -18103,7 +21977,7 @@ use_preset_vocabulary: true
 𩌰	sram	
 𨏪	sram	
 鱣	dyan	
-㚒	shec	
+㚒	shiec	
 㚒	shoom	
 炶	hom	
 陝	shoom	
@@ -18119,7 +21993,7 @@ use_preset_vocabulary: true
 煔	tiemm	
 㴸	shoom	
 覢	shoom	
-㶒	shaam	
+㶒	sheem	
 㶒	tomm	
 汕	srann	
 汕	sraan	
@@ -18294,7 +22168,7 @@ use_preset_vocabulary: true
 射	yeh	3%
 射	yec	2%
 射	djeh	
-射	djec	
+射	djiec	
 涉	diep	
 涉	zhep	
 赦	sheh	
@@ -18321,7 +22195,7 @@ use_preset_vocabulary: true
 攝	niep	5%
 攝	shep	
 麝	djeh	
-麝	djec	
+麝	djiec	
 灄	shep	
 懾	jep	
 欇	shep	
@@ -18534,7 +22408,7 @@ use_preset_vocabulary: true
 𪓿	shi	
 十	zhep	
 饣	djic	
-石	zhec	
+石	zhiec	
 𡚼	chii	
 旹	zhi	
 拾	zhep	
@@ -18542,14 +22416,14 @@ use_preset_vocabulary: true
 食	yih	2%
 食	szih	3%
 食	djic	
-炻	zhec	
-祏	zhec	
+炻	zhiec	
+祏	zhiec	
 姼	chii	
 姼	zhi	
 姼	zhii	
 時	zhi	
 時閒	zhi cean	
-䄷	zhec	
+䄷	zhiec	
 遈	zhic	
 㖷	zhi	
 湜	zhic	
@@ -18557,15 +22431,15 @@ use_preset_vocabulary: true
 塒	zhi	
 蒔	zhi	
 蒔	zhih	
-鉐	zhec	
+鉐	zhiec	
 榯	zhi	
 鉽	shic	
 蝕	djic	
 實	djet	
 䈕	zhi	
 䲽	diao	
-䲽	zhec	
-鼫	zhec	
+䲽	zhiec	
+鼫	zhiec	
 鼭	zhi	
 識	jih	4%
 識	shic	
@@ -18625,7 +22499,7 @@ use_preset_vocabulary: true
 恀	jii	
 恀	zhii	
 室	shet	
-冟	shec	
+冟	shiec	
 逝	zhey	
 栻	tyec	
 眎	zhih	
@@ -18654,7 +22528,7 @@ use_preset_vocabulary: true
 軾	shic	
 䩃	zhih	
 𣂯	zhey	
-睗	shec	
+睗	shiec	
 嗜	zhih	
 㒾	yih	
 㒾	shih	
@@ -18668,10 +22542,10 @@ use_preset_vocabulary: true
 誓	zhey	
 舓	djii	
 𩛌	jrih	
-適	jec	4%
-適	shec	92%
+適	jiec	4%
+適	shiec	92%
 適	diec	4%
-奭	shec	
+奭	shiec	
 銴	wey	
 銴	zhey	
 䊓	dhyii	
@@ -18681,20 +22555,20 @@ use_preset_vocabulary: true
 諟	zhii	
 諡	djih	
 澨	zhey	
-螫	shec	
+螫	shiec	
 檡	dhyaec	
-檡	shec	
+檡	shiec	
 𨢍	zhih	
 謚	iec	
 謚	djih	
-𡣪	shec	
+𡣪	shiec	
 𩋡	shet	
-䁺	shec	
+䁺	shiec	
 簭	zhey	
-𥼶	shec	
+𥼶	shiec	
 齛	siet	
-釋	shec	
-襫	shec	
+釋	shiec	
+襫	shiec	
 𨽄	srih	
 匙	zhi	
 收	sheu	
@@ -18903,7 +22777,7 @@ use_preset_vocabulary: true
 𨏉	sruan	
 𨏉	sruann	
 霜	srang	
-𩀝	jec	
+𩀝	jiec	
 雙	sruang	
 孀	srang	
 騻	srang	
@@ -18938,12 +22812,12 @@ use_preset_vocabulary: true
 涗	shuey	
 稅	shuey	
 裞	shuey	
-裞	tuay	
+裞	tuy	
 睡	zhuy	
 㥨	zhue	
 𠻜	sruey	
 𠻜	srot	
-䬽	luay	
+䬽	luy	
 䬽	shuey	
 𨿠	zhui	
 𨿠	zhuy	
@@ -18973,7 +22847,7 @@ use_preset_vocabulary: true
 搠	sruoc	
 蒴	sruoc	
 㮶	sruoc	
-碩	zhec	
+碩	zhiec	
 𦋞	sruoc	
 槊	sruoc	
 𦂗	sruoc	
@@ -19384,10 +23258,10 @@ use_preset_vocabulary: true
 𦂁	szuy	
 璲	szuy	
 檖	szuy	
-𣩡	suay	
+𣩡	suy	
 燧	szuy	
-𥕸	suay	
-𥊴	suay	
+𥕸	suy	
+𥊴	suy	
 穗	szuy	
 穟	szuy	
 䉌	szuy	
@@ -19459,30 +23333,30 @@ use_preset_vocabulary: true
 所	sruu	
 索	soc	
 索	sraec	
-索	srec	
+索	sriec	
 𧴪	soo	
 䣔	soo	
 𢱢	soc	
 𢱡	soo	
 𦵫	soc	
 䂹	cii	
-䂹	srec	
+䂹	sriec	
 嗩	soo	
 溑	soo	
 𡩡	sraec	
-𡩡	srec	
+𡩡	sriec	
 瑣	soo	
 㮦	soc	
 𥔭	soo	
 䈗	soo	
-䞽	srec	
+䞽	sriec	
 鎖	soo	
 𩌈	soc	
 䵀	soo	
 𩹳	soo	
 溹	soc	
 溹	sraec	
-溹	srec	
+溹	sriec	
 䐝	soh	
 𢷾	sruaec	
 他	to	
@@ -19604,15 +23478,15 @@ use_preset_vocabulary: true
 𪒴	dai	
 呔	dai	
 㘆	tae	
-太	tah	
-忕	dhah	
-忕	tah	
+太	tay	
+忕	dhay	
+忕	tay	
 忕	zhey	
-汰	tah	
-肽	tah	
-泰	tah	
-酞	tah	
-鈦	tah	
+汰	tay	
+肽	tay	
+泰	tay	
+酞	tay	
+鈦	tay	
 態	tay	
 坍	tam	
 㘱	tam	
@@ -20030,7 +23904,7 @@ use_preset_vocabulary: true
 䯜	tiec	
 鬄	siec	
 嚔	dey	
-𩮜	shec	
+𩮜	shiec	
 𩮜	tiec	
 籊	dhiec	
 籊	tiec	
@@ -20314,7 +24188,7 @@ use_preset_vocabulary: true
 僮	dhyuaq	2%
 僮	dhung	
 僮侗	dhyuaq dhuq	
-僮泰	dhyuaq tah	
+僮泰	dhyuaq tay	
 僮族	dhyuaq dzuc	
 鉵	dhong	
 銅	dhung	
@@ -20540,17 +24414,17 @@ use_preset_vocabulary: true
 退	tuey	
 𢓴	tuey	
 娧	yuet	
-娧	tuay	
+娧	tuy	
 㥆	tuey	
 㥆	tut	
 蛻	yuet	
 蛻	shuey	
-蛻	tuay	
+蛻	tuy	
 蛻	toh	
 㷟	tuei	
 褪	tuey	
 
-駾	tuay	
+駾	tuy	
 吞	tien	
 吞	ten	
 涒	tun	
@@ -20604,7 +24478,7 @@ use_preset_vocabulary: true
 託	toc	
 袥	toc	
 飥	toc	
-脫	dhuay	0%
+脫	dhuy	0%
 脫	dhot	
 脫	tot	
 𧦭	to	
@@ -20672,7 +24546,7 @@ use_preset_vocabulary: true
 撱	wue	
 橢	too	
 鵎	too	
-拓	jec	
+拓	jiec	
 拓	toc	
 柝	toc	
 𦚈	toc	
@@ -20681,7 +24555,7 @@ use_preset_vocabulary: true
 涶	to	
 涶	toh	
 𣔳	toc	
-毻	tuay	
+毻	tuy	
 毻	toh	
 𨂫	toc	
 𣟄	toc	
@@ -20742,14 +24616,14 @@ use_preset_vocabulary: true
 竵	xuai	
 䴜	uai	
 崴	uai	
-外	quey	
+外	quy	
 𩔀	quay	
 顡	qih	
 顡	quee	
 
 𦘍	quat	
-䶐	uah	
 䶐	uay	
+䶐	uy	
 剜	uon	
 捥	uonn	
 帵	uon	
@@ -21120,12 +24994,12 @@ use_preset_vocabulary: true
 餧	uy	
 鮇	vuy	
 謂	wuy	
-濊	xuay	
+濊	xuy	
 濊	xuot	
-濊	uay	
+濊	uy	
 濊	uey	
-懀	uah	
 懀	uay	
+懀	uy	
 魏	quy	
 餵	uy	
 𤀷	wuy	
@@ -21158,8 +25032,8 @@ use_preset_vocabulary: true
 躛	xuay	
 讏	wey	
 𧕈	uy	
-䵳	uah	
 䵳	uay	
+䵳	uy	
 𧲝	wey	
 昷	un	
 𥁕	un	
@@ -22170,7 +26044,7 @@ use_preset_vocabulary: true
 欀	siang	
 纕	siang	
 鑲	rang	
-鑲	nang	
+鑲	niang	
 鑲	siang	
 驤	siang	
 庠	sziang	
@@ -22875,7 +26749,7 @@ use_preset_vocabulary: true
 湑	siuu	
 𨜿	siut	
 絮	nah	
-絮	nuh	
+絮	niuh	
 絮	siuh	
 絮	tyuh	
 婿	sey	
@@ -23846,7 +27720,7 @@ use_preset_vocabulary: true
 銚	tiau	
 𣣳	yau	
 餆	yau	
-蕘	riau	
+蕘	rau	
 嶢	qiau	
 窰	yau	
 窯	yau	
@@ -24395,7 +28269,7 @@ use_preset_vocabulary: true
 軼	dhiet	
 軼	yit	
 殔	yih	
-晹	shec	
+晹	shiec	
 跇	ey	
 跇	tyey	
 䇩	ey	
@@ -24432,7 +28306,7 @@ use_preset_vocabulary: true
 𢝃	jey	
 義	qih	
 溢	yit	
-䘸	jec	
+䘸	jiec	
 䘸	yec	
 蓺	qey	
 靾	ey	
@@ -24524,7 +28398,7 @@ use_preset_vocabulary: true
 㽈	qih	
 癔	ic	
 𦔥	yec	
-𦔥	shec	
+𦔥	shiec	
 豷	xuy	
 豷	ey	
 𠥦	yic	
@@ -25517,7 +29391,7 @@ use_preset_vocabulary: true
 欝	iut	
 𩰪	iut	
 鬱	iut	
-??	yuc	
+𩱱	yuc	
 籲	yuh	
 灪	iut	
 爩	iut	
@@ -26245,7 +30119,7 @@ use_preset_vocabulary: true
 乍	jrah	
 灹	dyah	
 柵	traec	
-柵	trec	
+柵	triec	
 柵	srann	
 柞	zoc	
 柞	dzoc	
@@ -26291,7 +30165,7 @@ use_preset_vocabulary: true
 栴	jan	
 旃	jan	
 蛅	rom	
-粘	nem	
+粘	niem	
 詀	chep	
 詀	dhyamm	
 詀	diem	
@@ -26315,7 +30189,7 @@ use_preset_vocabulary: true
 旜	jan	
 𧾍	dhyan	
 𧾍	dyan	
-譫	jap	
+譫	jep	
 譫	dhap	
 饘	jan	
 饘	jaan	
@@ -26350,7 +30224,7 @@ use_preset_vocabulary: true
 嫸	jaan	
 橏	jaan	
 𧎰	dyaan	
-輾	nenn	
+輾	nienn	
 輾	dyaan	
 𥊳	jaan	
 𦗢	jaan	
@@ -26553,7 +30427,7 @@ use_preset_vocabulary: true
 𣠞	chep	
 𣠞	jep	
 𪐏	dyaec	
-𪐏	dyec	
+𪐏	dyiec	
 讋	jep	
 襵	jep	
 襵	dyep	
@@ -26567,7 +30441,7 @@ use_preset_vocabulary: true
 柘	jeh	
 𦯍	dyep	
 這	jee	1%
-這	jec	98%
+這	jiec	98%
 這	qienn	1%
 浙	jet	
 䏳	jet	
@@ -26577,7 +30451,7 @@ use_preset_vocabulary: true
 樜	shuh	
 蟅	jeh	
 䗪	jeh	
-䗪	jec	
+䗪	jiec	
 鷓	jeh	
 着	dhyoc	
 着	dyoc	
@@ -26817,7 +30691,7 @@ use_preset_vocabulary: true
 祗	ji	
 𢻈	jih	
 秪	dyi	
-隻	jec	
+隻	jiec	
 脂	ji	
 㩼	ji	
 㩼	jih	
@@ -26826,7 +30700,7 @@ use_preset_vocabulary: true
 䓜	ji	
 梔	ji	
 𨈛	ji	
-䞠	jec	
+䞠	jiec	
 䧴	ji	
 䧴	shih	
 臸	ji	
@@ -26869,18 +30743,18 @@ use_preset_vocabulary: true
 執	jep	
 𡸜	dhyec	
 淔	tyec	
-𦳮	juec	
+𦳮	juaec	
 植	dhyih	
 植	zhic	
 殖	zhic	
-跖	jec	
+跖	jiec	
 犆	dhyec	
 䐈	jic	
 䐈	dhyec	
 瓡	jep	
 稙	dyec	
-墌	jec	
-摭	jec	
+墌	jiec	
+摭	jiec	
 𩢏	dyep	
 漐	tyep	
 慹	jep	
@@ -26897,16 +30771,16 @@ use_preset_vocabulary: true
 𧽮	dhyet	
 職	jic	
 𡂣	dyep	
-蹠	jec	
-蹢	dhyec	
+蹠	jiec	
+蹢	dhyiec	
 蹢	diec	
 蟙	jic	
 軄	jic	
 𪗨	jret	
-𧓸	dhyec	
-躑	dhyec	
+𧓸	dhyiec	
+躑	dhyiec	
 䵂	dhiec	
-䵂	dhyec	
+䵂	dhyiec	
 夂	dyii	
 止	jii	
 旨	jii	
@@ -26961,7 +30835,7 @@ use_preset_vocabulary: true
 帙	dhyet	
 制	jey	
 炙	jeh	
-炙	jec	
+炙	jiec	
 治	dhyi	
 治	dhyih	
 治	dhyih	2%
@@ -27071,7 +30945,7 @@ use_preset_vocabulary: true
 質	jet	
 質	dyih	50%
 膣	dyet	
-潪	dhyec	
+潪	dhyiec	
 潪	dyih	
 駤	dyih	
 䭁	jey	
@@ -27083,13 +30957,13 @@ use_preset_vocabulary: true
 𤴟	jey	
 㘉	dret	
 𡽆	jih	
-㿃	dah	
+㿃	day	
 㿃	dyey	
 瀄	dret	
 緻	dhyih	
 𦃘	dhyih	
-擿	dhyec	
-擲	dhyec	
+擿	dhyiec	
+擲	dhyiec	
 櫛	dret	
 䞃	dyih	
 螲	dyet	
@@ -27251,7 +31125,7 @@ use_preset_vocabulary: true
 酎	dhyew	
 晝	dyew	
 葤	dhyeo	
-㑳	dru	
+㑳	dreu	
 㑳	nop	
 㑳	jrew	
 䛆	dhyew	
@@ -27461,7 +31335,7 @@ use_preset_vocabulary: true
 檛	dyua	
 膼	dyua	
 髽	drua	
-簻	kuo	
+簻	ko	
 簻	dyua	
 
 拽	yet	
@@ -28085,22 +31959,22 @@ use_preset_vocabulary: true
 嶊	zuee	
 嘴	zue	
 噿	zue	
-𢃒	zuay	
+𢃒	zuy	
 𢃒	zuey	
-最	zuay	
+最	zuy	
 晬	zuey	
 祽	zuey	
 罪	dzuee	
 辠	dzuee	
-蕞	dzuay	
+蕞	dzuy	
 醉	zuy	
-𧎹	zuay	
+𧎹	zuy	
 檇	zui	
 檇	zuy	
 檇	dzuei	
 㠑	dzuee	
 㠑	dzue	
-𥳣	dzuay	
+𥳣	dzuy	
 𪓌	zuey	
 欈	wui	
 尊	zun	
@@ -28266,7 +32140,7 @@ use_preset_vocabulary: true
 部曲	bhuu kouc
 部署	bheo zhuh
 部伍	bhuu quu
-財會	dzai cuey
+財會	dzai cuy
 參差	trem tri
 參鼓 	tsomm cuu
 參觀	tsom cuon
@@ -28332,7 +32206,7 @@ use_preset_vocabulary: true
 車票	che piaw
 車主	che juu
 丞相	zheng siaq
-尺度	chec dhuh
+尺度	chiec dhuh
 充分	chung fvenn
 充值	chung dhyec
 出差	chut trai
@@ -28342,7 +32216,7 @@ use_preset_vocabulary: true
 儲藏	dhyu dzang
 處方	chuu fang
 處理	chuu lii
-處女	chuu nuu
+處女	chuu niuu
 處暑	chuu shuu
 處於	chuu iu
 處在	chuu dzae
@@ -28372,17 +32246,17 @@ use_preset_vocabulary: true
 錯雜	tsoc dzap
 錯綜	tsoc zoq
 答應	dap iq
-打轉	t'rangx dyuann
-大汗	dhah hon
-大汗	dhah honn
-大行	dhah hang
-大行	dhah haeng
-大將	dhah ziaq
-大辟	dhah bhiec
-大使	dhah srih
-大汶口	dhah venn keo
-大校	dhah heaw
-大燕	dhah ien
+
+大汗	dhay hon
+大汗	dhay honn
+大行	dhay hang
+大行	dhay haeng
+大將	dhay ziaq
+大辟	dhay bhiec
+大使	dhay srih
+大汶口	dhay venn keo
+大校	dhay heaw
+大燕	dhay ien
 代謝率	dhay szieh liut
 單調	dan dhiaw
 單挑	dan dhiao
@@ -28519,9 +32393,9 @@ use_preset_vocabulary: true
 行高	hang cau
 行好	haeng xao
 行号	hang haw
-行話	hang huah
+行話	hang huay
 行賄	haeng xuee
-行會	hang huay
+行會	hang huy
 行貨	hang xuoh
 行家	hang cea
 行將	haeng ziang
@@ -28597,8 +32471,8 @@ use_preset_vocabulary: true
 回覆	huei fuc
 回鶻	huei hut
 悔過	xuey cuoh
-會稽	cuey cei
-會計	cuey cey
+會稽	cuy cei
+會計	cuy cey
 火車	xuoo che
 火圈	xuoo kiuan
 稽攷	cei kao
@@ -28632,9 +32506,9 @@ use_preset_vocabulary: true
 敎長	ceaw dyag
 敎程	ceaw dhyaeng
 敎的	ceau diec
-敎會	ceau huay
-敎會	ceaw huay
-敎課	ceau kuoh
+敎會	ceau huy
+敎會	ceaw huy
+敎課	ceau koh
 敎師	ceaw sri
 敎授	ceau zhew
 敎授	ceaw zhew
@@ -28887,9 +32761,9 @@ use_preset_vocabulary: true
 素質	suh jet
 所在	sruu dzay
 台州	tai jeu
-太行	tah hang
-太監	tah ceamm
-太守	tah shew
+太行	tay hang
+太監	tay ceamm
+太守	tay shew
 湯湯	shang shang
 唐朝	dhang dhyau
 天台	tien tai
@@ -29001,7 +32875,7 @@ use_preset_vocabulary: true
 校內	heaw nuey
 校慶	heaw kieq
 校舍	heaw sheh
-校外	heaw quey
+校外	heaw quy
 校尉	heaw uy
 校訓	heaw xiunn
 校驗	ceaw qiemm
@@ -29077,7 +32951,7 @@ use_preset_vocabulary: true
 魚乾	qiu con
 餘汗	yu con
 雨燕	yuu ienn
-與會	yuh huay
+與會	yuh huy
 語種	qiuu jog
 閼氏	ien ji
 冤句	iuan giu
@@ -29114,7 +32988,7 @@ use_preset_vocabulary: true
 召工	zhaw cung
 召喚	dhyaw xuonn
 照相	jaw siaq
-這些	jec sie
+這些	jiec sie
 着裝	dyoc drang
 針刺	jem tsiec
 眞相	jen siaq
@@ -29158,8 +33032,8 @@ use_preset_vocabulary: true
 重複	dhyong fvew
 重合	dhyong hop
 重量	dhyog liaq
-重紐	dhyong neo
-重鈕	dhyong neo
+重紐	dhyong nieo
+重鈕	dhyong nieo
 重慶	dhyong kieq
 重視	dhyog zhih
 重心	dhyog sim
@@ -29185,7 +33059,7 @@ use_preset_vocabulary: true
 轉發	dyuaan fat
 轉告	dyuaan caw
 轉換	dyuaan huonn
-轉會	dyuaan huay
+轉會	dyuaan huy
 轉交	dyuaan ceau
 轉了	dyuaan liao
 轉盤	dyuann bhon
@@ -29199,15 +33073,15 @@ use_preset_vocabulary: true
 轉載	dyuaan dzay
 轉帳	dyuaan dyaq
 轉賬	dyuaan dyaq
-子女	zii nuu
+子女	zii niuu
 自行車	dzih haeng che
 自乾五	dzih con quu
 自首	dzih shew
 宗敎	zong ceaw
 椶種	zung jog
 總要	zug iaw
-最好	zuay xao
-最少	zuay shao
+最好	zuy xao
+最少	zuy shao
 尊重	zun dhyog
 左傳	zoo dhyuann
 左轉	zoo dyuaan
