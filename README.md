@@ -19,6 +19,9 @@
   - [倉頡五代](https://github.com/rime/rime-cangjie) ℞ **`cangjie`**
   - [五筆畫](https://github.com/rime/rime-cantonese) ℞ **`stroke`**
 
+### Emoji
+見[繪文字](https://github.com/rime/rime-emoji) ℞ **`emoji`**
+
 ## 鳴謝
 * [biopolyhedron/rime-middle-chinese - 中古漢語拼音](https://github.com/biopolyhedron/rime-middle-chinese/)
 * [nk2028/qieyun-autoderiver - 切韻音系自動推導](https://nk2028.shn.hk/qieyun-autoderiver/)
